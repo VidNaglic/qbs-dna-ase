@@ -36,11 +36,11 @@ Raw sequencing data are available in the NCBI Sequence Read Archive (SRA) under 
 
 ## How to run
 Bioinformatics pipeline (QIIME2):
-- bioinformatics_pipeline/qiime2_dada2_pipeline.sh
+- bioinformatics_pipeline/01_qiime2_dada2_pipeline.sh
 
 Taxonomic assignment (BOLDigger):
-- bioinformatics_pipeline/boldigger_pipeline.sh
-- bioinformatics_pipeline/boldigger_to_taxonomy.py
+- bioinformatics_pipeline/02_boldigger_pipeline.sh
+- bioinformatics_pipeline/03_boldigger_to_taxonomy.py
 
 ## Requirements (not included)
 - QIIME 2, biom, and (optional) seqkit for the pipeline
