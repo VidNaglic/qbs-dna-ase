@@ -49,7 +49,5 @@ Taxonomic assignment (BOLDigger):
 - QIIME 2, biom, and (optional) seqkit for the pipeline
 - BOLDigger3 for taxonomic assignment
 
-## DOI / repository link
-Replace with your permanent repository and DOI after publishing:
-- GitHub: https://github.com/USER/REPO
-- DOI (Zenodo): 10.XXXX/zenodo.XXXXXX
+## Repository link
+- GitHub: https://github.com/VidNaglic/qbs-dna-ase
