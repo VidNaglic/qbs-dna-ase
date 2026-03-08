@@ -17,17 +17,20 @@ Raw sequencing data are available in the NCBI Sequence Read Archive (SRA) under 
 
 ## Repository structure
 - bioinformatics_pipeline/   QIIME2 + DADA2 pipeline and BOLDigger assignment
-- data/                      ASV tables, taxonomy, representative sequences, metadata
+- data/                      published data outputs
+- data/dna/                  ASV tables, taxonomy, representative sequences, metadata
+- data/qbs/                  QBS morphology subsamples tables
 - docs/                      brief workflow and analysis descriptions
 
 ## Key data files
-- data/asv_table_raw.tsv                raw ASV table (samples x ASVs)
-- data/asv_table_filtered.tsv           filtered ASV table used for analyses
-- data/taxonomy_table.tsv               taxonomic assignments for filtered ASVs
-- data/boldigger_assignments.xlsx       raw BOLDigger output (optional reference)
-- data/representative_sequences.fasta   representative ASV sequences
-- data/sample_metadata_raw.tsv          metadata for raw ASV table
-- data/sample_metadata_filtered.tsv     metadata for filtered ASV table
+- data/dna/asv_table_raw.tsv                raw ASV table (samples x ASVs)
+- data/dna/asv_table_filtered.tsv           filtered ASV table used for analyses
+- data/dna/taxonomy_table.tsv               taxonomic assignments for filtered ASVs
+- data/dna/boldigger_assignments.xlsx       raw BOLDigger output (optional reference)
+- data/dna/representative_sequences.fasta   representative ASV sequences
+- data/dna/sample_metadata_raw.tsv          metadata for raw ASV table
+- data/dna/sample_metadata_filtered.tsv     metadata for filtered ASV table
+- data/qbs/qbs_subsamples.xlsx              morphology (QBS) subsamples table
 
 ## Workflow summary
 1. Raw reads processed with QIIME2 + DADA2 to generate ASVs.
