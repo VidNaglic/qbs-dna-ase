@@ -1,7 +1,7 @@
 # DNA metabarcoding pipeline and data for QBS-DNA study
 
 ## Description
-This repository contains the core bioinformatics pipeline and taxonomic assignment step (BOLDigger) used in the QBS-DNA study (arable, orchard, strawberry systems). It provides the inputs and outputs needed to reproduce the ASV tables from sequencing data.
+Pipeline and data for the ASE paper by Naglic et al. This repository contains the core bioinformatics pipeline and taxonomic assignment step (BOLDigger) used in the QBS-DNA study (arable, orchard, strawberry systems), providing the inputs and outputs needed to reproduce the ASV tables from sequencing data.
 
 Contents:
 - bioinformatics scripts used for sequence processing and taxonomic assignment
