@@ -1,0 +1,1021 @@
+ASV_ID	Phylum	Class	Order	Family	Genus	Species	pct_identity	status	records	selected_level	BIN	flags	Original_OTU_Count
+eb28be54d00ca3228c43d131c5822ce2	Arthropoda	Insecta	Hemiptera				85.266	public	2	Order		1--2	1
+139aac61f5719a55e536b680b70c2985	Arthropoda	Insecta	Lepidoptera				87.5	public	1	Order		1--4	1
+64e8693fcce5bdfbe1c6205987597f7f	Arthropoda	Insecta	Hymenoptera				85.197	public	1	Order		4	1
+ea85a0125a50e3de1d16040403efd959	Arthropoda	Insecta	Lepidoptera				85.05	public	1	Order		1--4	1
+c672a8f06e3572c7b6a61c47dd0f4b76	Arthropoda	Insecta	Lepidoptera				87.5	public	1	Order		1--4	1
+bd94d747a622d27b33a5f53361641ecd	Arthropoda	Insecta	Hymenoptera				86.604	public	1	Order		2--4	1
+7e84a6cac7da0f66da195a0e21534f2c	Arthropoda	Diplopoda	Julida	Julidae	Brachyiulus	Brachyiulus bagnalli	98.428	public	1	Species	BOLD:ACB4623	4	1
+7fa4cc1d739e1d955833de32ad47c825	Arthropoda	Insecta	Hymenoptera				85.047	public	1	Order		4	1
+b9b7b862d12b06cad19773d8afbacf7a	Arthropoda	Insecta	Hemiptera				86.859	public	2	Order		1--2	1
+541c9cef6d79aef21b2ecbbec9f6f944	Arthropoda	Insecta	Lepidoptera				85.623	public	1	Order		1--4	1
+8b57a7e39145c16551de00b4a8610e35	Arthropoda	Insecta	Hymenoptera				86.562	public	1	Order		2--4	1
+03481f1c9feae9ddb422d2dc81c55286	Arthropoda	Insecta	Hemiptera				86.817	public	2	Order		1--2	1
+c5b971431f064d17de1710a9a039520f	Arthropoda	Insecta	Hymenoptera				87.461	public	1	Order		4	1
+6e49e3453d0940f24fb07462c3d24cb4	Arthropoda	Insecta	Lepidoptera				85.623	public	1	Order		1--4	1
+f64f8c62efee1f6a80e4f8e1530d8752	Arthropoda	Insecta	Coleoptera				86.916	public	2	Order		2	1
+4be05a2f5306a23e4a20fc2c036a71da	Arthropoda	Insecta	Hymenoptera				86.25	public	1	Order		4	1
+368a9ca08c4fba3896e1312451c31609	Arthropoda	Insecta	Hymenoptera				87.421	public	1	Order		4	1
+a8b880072db9cb7796eb53b391446bd0	Arthropoda	Insecta	Hymenoptera				85.35	public	1	Order		4	1
+687bbccaff81ddaf9a00f9ea150a52da	Arthropoda	Chilopoda	Geophilomorpha				85.231	public	1	Order		4	1
+f3ff10ea96e67cfe24719ff7a9be9f52	Arthropoda	Diplopoda	Julida	Julidae	Brachyiulus	Brachyiulus bagnalli	98.423	public	1	Species	BOLD:ACB4623	4	1
+96fe463c3d87a32eefa595bb56750f9d	Arthropoda	Insecta	Hymenoptera				85.893	public	1	Order		2--4	1
+7c9177ad4cfcf3f32a16f0bd12c2aff4	Arthropoda	Insecta	Hymenoptera				86.25	public	1	Order		4	1
+a8e43b0047b40762bfe263e23552f8f1	Arthropoda	Insecta	Hymenoptera				85.849	public	1	Order		2--4	1
+9fa4ded8bb218deef25182d3844fdfaf	Arthropoda	Insecta	Hymenoptera				87.774	public	1	Order		4	1
+fb0e8ce851cfc4423e3a3624ccf802a1	Arthropoda	Insecta	Hymenoptera				85.625	public	1	Order		4	1
+f756c59d9eb839b115bb9eb227b34d66	Arthropoda	Insecta	Lepidoptera				86.139	public	2	Order		1--2	1
+dc9bd4fc3c495a20021287e3a18234cb	Arthropoda	Insecta	Hemiptera	Miridae	Phytocoris		96.226	public	2	Genus		1	1
+9c93612a8f5c1ed3751041cd940b651b	Arthropoda	Insecta	Hymenoptera				86.207	public	1	Order		4	1
+94c002c5c5fd3e23262a0d5178ab7f29	Arthropoda	Insecta	Coleoptera				86.875	public	2	Order		2	1
+bf749ecc14544a9aa87ba1461b1bf392	Arthropoda	Insecta	Hemiptera				85.893	public	2	Order		1--2	1
+31255dd183b3b03dc3d9ac560fa6f416	Arthropoda	Insecta	Hemiptera				86.859	public	2	Order		1--2	1
+effdc4eac7a931607b37a6c2648e45ee	Arthropoda	Insecta	Hemiptera				85.22	public	2	Order		1--2	1
+66ceb639fc246d6ac2590209b4e93d62	Arthropoda	Insecta	Lepidoptera				86.139	public	2	Order		1--2	1
+802c26cbbf2c6a6e8837c6454bd9be32	Arthropoda	Insecta	Coleoptera				86.769	public	2	Order		2	1
+5c49b742b778b594be4ceaed95e2b34e	Arthropoda	Insecta	Hymenoptera				86.207	public	1	Order		4	1
+1948b8f20ad4bc1ece7d27e420d36a75	Arthropoda	Insecta	Lepidoptera				85.05	public	1	Order		1--4	1
+dd293826ceae1dbc79296e202e5ec916	Arthropoda	Insecta	Hymenoptera				87.774	public	1	Order		4	1
+8b8afac1a5414d819e71be2424bf02ea	Arthropoda	Insecta	Hymenoptera				85.58	public	1	Order		4	1
+a93d0349f25c8a5eb8530bf6085a754b	Arthropoda	Insecta	Hemiptera	Miridae	Phytocoris		96.215	public	2	Genus		1	1
+9836d30fc7e68de77ca1c8e3812ef1bb	Arthropoda	Insecta	Hymenoptera				85.938	public	1	Order		4	1
+6177408eff51f131b64c721ff1d3629d	Arthropoda	Insecta	Hemiptera				85.849	public	2	Order		1--2	1
+7e3c3c7bca7121471e5ad8ae764a58b4	Arthropoda	Insecta	Lepidoptera				87.179	public	1	Order		1--4	1
+052af6e7ce8a125dccd7a97360a85806	Arthropoda	Insecta	Hymenoptera				87.147	public	1	Order		4	1
+7256652f757425fc21aaf81e3a04e86e	Arthropoda	Insecta	Hymenoptera				85.893	public	1	Order		2--4	1
+0a07be8d4bcab0d38effd8f3610959e7	Arthropoda	Insecta	Hemiptera				86.538	public	2	Order		1--2	1
+a8fda61267b6ac73b9cc5869cf540aa9	Arthropoda	Insecta	Hymenoptera				85.849	public	1	Order		2--4	1
+d49b4fa88ac5b0853c9b1b54cba3f098	Arthropoda	Insecta	Hymenoptera				85.625	public	1	Order		4	1
+2f69f7a8742099eadbb4507e5bbfb6f2	Arthropoda	Insecta	Hemiptera				85.535	public	2	Order		1--2	1
+382226f8f416f50ba52af912dc2954f0	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+b760d14807d78a411b46e73620d6f1a0	Arthropoda	Insecta	Lepidoptera	Gracillariidae			90.385	public	1	Family		1--4	1
+8058326beb55602e96c4c4bad20f13ee	Arthropoda	Insecta	Hymenoptera				87.107	public	1	Order		4	1
+6adb05037988220ba0455948368a28c1	Arthropoda	Insecta	Hymenoptera				85.032	public	1	Order		4	1
+baea16e0036c812b8bb567d03faf508d	Arthropoda	Insecta	Hemiptera				86.495	public	2	Order		1--2	1
+c325e30c37c4cdf032177ad1eef5d567	Arthropoda	Insecta	Lepidoptera				86.139	public	2	Order		1--2	1
+999eb5dd70bdc7be73849749b4be3787	Arthropoda	Insecta	Hemiptera				87.043	public	2	Order		1--2	1
+85cea9a8f0e7646f64f73b718b03783f	Arthropoda	Insecta	Lepidoptera				87.179	public	1	Order		1--4	1
+605ccb67effb22c49f77f398526e1217	Arthropoda	Insecta	Hemiptera				85.032	public	2	Order		1--2	1
+d641deea52085d1f1f17dfdda339b914	Arthropoda	Insecta	Hemiptera				85.079	public	2	Order		1--2	1
+95e1813804614c08fbb2f6740b95927b	Arthropoda	Insecta	Coleoptera				86.728	public	2	Order		2	1
+1f754146f880a16ebe2a9af258327fd3	Arthropoda	Insecta	Hemiptera				85.05	public	2	Order		1--2	1
+4584d12429e0bee445043400797d5467	Arthropoda	Insecta	Hymenoptera				85.312	public	1	Order		4	1
+12c3680f9a34bef4554bdd722ece7b7b	Arthropoda	Insecta	Hemiptera				87.421	public	2	Order		1--2	1
+d7f6d3e8b8fccb112284559d371bd7d3	Arthropoda	Insecta	Hymenoptera				87.188	public	1	Order		2--4	1
+0a4c15cb15eb6799b4606973c47d9bbe	Arthropoda	Insecta	Hemiptera	Miridae	Phytocoris		96.226	public	2	Genus		1	1
+dc60d624abb7506ecfe3a681a85cb59e	Arthropoda	Collembola	Neelipleona	Neelidae			90.432	public	3	Family			1
+8f7b16dba70601a7b98aa173bafce17e	Arthropoda	Insecta	Hymenoptera				86.792	public	1	Order		4	1
+8b0e6a5f976f57a623ef05dcee1b4e4e	Arthropoda	Insecta	Lepidoptera				85.032	public	1	Order		1--2--4	1
+54d76e3d0f466bfa577cfb8d0ad0b9ae	Arthropoda	Insecta	Lepidoptera				85.67	public	1	Order		1--4	1
+4e2f87c1293a40da0488db8f5da7cb63	Arthropoda	Insecta	Coleoptera	Curculionidae	Polydrusus	Polydrusus formosus	100.0	public	42	Species	BOLD:ACO8630;BOLD:AEA5959;BOLD:AAB8911;BOLD:AEM7994;BOLD:AED1211	5	1
+06e74d1caf405430b00e0c2b96d69ea5	Arthropoda	Insecta	Hymenoptera				87.5	public	1	Order		4	1
+3bf7be5781bc6cf96c83b3c65bc17df6	Arthropoda	Insecta	Lepidoptera				86.604	public	1	Order		1--2--4	1
+fb08fe1a5b5513d57eed463d4fe949f3	Arthropoda	Insecta	Hymenoptera				85.625	public	1	Order		4	1
+e9495f7b2c263d5ff81423c0bc43447d	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+c58ad74e5e3ca3953892f8e28d8f2f47	Arthropoda	Insecta	Hymenoptera				86.875	public	1	Order		4	1
+10997e7c70629cdb0864a2840ad101fd	Arthropoda	Insecta	Hymenoptera				86.562	public	1	Order		4	1
+a635150620d31074a6cc34973017a97e	Arthropoda	Insecta	Hemiptera	Miridae			93.082	public	2	Family		1	1
+6ccbcd4ecd40ba936d7adb2bb053bfa6	Arthropoda	Insecta	Lepidoptera				87.179	public	1	Order		1--4	1
+0e5a94bf6117f67e9a188e21c75ab674	Arthropoda	Insecta	Hymenoptera	Formicidae	Lasius	Lasius niger	100.0	public	25	Species	BOLD:ABZ8330	2	1
+87279ca725c0e4aabd9c32b226ad3573	Arthropoda	Insecta	Diptera				85.149	public	1	Order		1--4	1
+c5140595cde96672b971a2f4028f6c47	Arthropoda	Insecta	Lepidoptera				86.25	public	1	Order		1--4	1
+06a86350977b28777b0f22df1f32cc7a	Arthropoda	Insecta	Hemiptera				87.043	public	2	Order		1--2	1
+463ae25600a9fcc9b149e249057d47db	Arthropoda	Insecta	Lepidoptera	Gracillariidae			90.385	public	1	Family		1--4	1
+97991a72f1730c85f83f81593a7c5100	Arthropoda	Insecta	Hemiptera				85.05	public	2	Order		1--2	1
+b41eb8e31d4f95cc8c6ff74a5ad1957e	Arthropoda	Insecta	Hemiptera				85.174	public	2	Order		1--2	1
+644d8226c1c2ca98a0175024e752e31b	Arthropoda	Insecta	Lepidoptera				85.893	public	1	Order		1--4	1
+5b264971dd6c5c8a99854784081c6ef6	Arthropoda	Insecta	Hemiptera				85.032	public	2	Order		1--2	1
+3d37768384887d1e2d03f2f932074912	Arthropoda	Insecta	Hymenoptera				85.667	public	1	Order		4	1
+9aafefd9ec3e736e0d556734947f26e5	Arthropoda	Insecta	Lepidoptera				85.938	public	1	Order		1--4	1
+829abac9c4d4609e69d6cdbf0f0f87ad	Arthropoda	Insecta	Hymenoptera				85.304	public	1	Order		4	1
+0c4b996753e2d79121f4a688f487ac72	Arthropoda	Insecta	Hemiptera				85.22	public	2	Order		1	1
+5d1a98e89b4ea37fe175a898a404120c	Arthropoda	Insecta	Hymenoptera				85.938	public	1	Order		4	1
+660e9bae4606ccc8826a5264ca02e5cc	Arthropoda	Insecta	Hymenoptera				87.461	public	1	Order		4	1
+c12e6dad34b81e9f1704911d8052b80b	Arthropoda	Insecta	Hymenoptera				86.834	public	1	Order		4	1
+713dc433527809c219b084fc9c1b4ac1	Arthropoda	Diplopoda	Julida	Julidae	Brachyiulus	Brachyiulus bagnalli	98.433	public	1	Species	BOLD:ACB4623	4	1
+19b4fb2aeebe73812a379fe7af0932ea	Arthropoda	Insecta	Hymenoptera				88.401	public	1	Order		4	1
+f4e6346837e1d5128929edab4adee3be	Arthropoda	Insecta	Hymenoptera				87.147	public	1	Order		2--4	1
+a6500feee88edf4f87c1a3c9774f1a0a	Arthropoda	Insecta	Hemiptera				85.893	public	2	Order		1--2	1
+7ca2b191452dce186656396d59414cac	Arthropoda	Insecta	Hemiptera				87.382	public	2	Order		1--2	1
+dbccd0b2f7d9c2c687f5010c8740d00c	Arthropoda	Insecta	Hemiptera				85.58	public	2	Order		1--2	1
+baef5251392ecf9dc405aeccea60e65b	Arthropoda	Collembola	Neelipleona	Neelidae			90.462	public	3	Family			1
+1d522d70bc3caae5345467f860e2952f	Arthropoda	Insecta	Lepidoptera				85.032	public	1	Order		1--2--4	1
+bd42ecd2da5bab5a27943ddea3f7585e	Arthropoda	Insecta	Lepidoptera				85.312	public	1	Order		1--4	1
+9883dc35c24e0b6ea0e0708b21b0f441	Arthropoda	Insecta	Lepidoptera				85.312	public	1	Order		1--4	1
+3eec046dc1a898651606cd02077a0252	Arthropoda	Insecta	Hymenoptera				85.266	public	1	Order		4	1
+1c24fab6d18051fbfea085e18a4e5708	Arthropoda	Insecta	Hymenoptera				85.893	public	1	Order		4	1
+853c9978722e46f2714057c2be574290	Arthropoda	Insecta	Lepidoptera				86.859	public	1	Order		1--4	1
+19fa31addee9e2bca9da0409b34ba575	Arthropoda	Insecta	Hymenoptera				87.5	public	1	Order		4	1
+78d3b15d0ef48ca7d73a1493d6019755	Arthropoda	Insecta	Hemiptera				85.079	public	2	Order		1--2	1
+cb62bb24f831e766f9235232ee0a022a	Arthropoda	Insecta	Lepidoptera	Gracillariidae			92.835	public	1	Family		1--4	1
+0a221edaff5449b68ecd26e089feafb9	Arthropoda	Insecta	Hemiptera				85.58	public	2	Order		1--2	1
+3c1db193d19cbfdc4b963de224fb2078	Arthropoda	Insecta	Hemiptera	Miridae			93.06	public	2	Family		1	1
+6c9b02ca8b24def228c9f5fe3d513271	Arthropoda	Insecta	Hymenoptera				85.669	public	1	Order		4	1
+75b55ad6556ee63da7fb9f6cbb4b9742	Arthropoda	Insecta	Lepidoptera				86.52	public	1	Order		1--4	1
+14c07a2ce87c3a7d1673d17fecc25be8	Arthropoda	Insecta	Hymenoptera				88.365	public	1	Order		4	1
+16499e4ac10e698c6763c8b622805a3d	Arthropoda	Insecta	Lepidoptera				85.902	public	2	Order		1--2	1
+c394fe095dfcc873f1a1a0cc6414e234	Arthropoda	Insecta	Lepidoptera				86.859	public	1	Order		1--4	1
+dd2202e8c2fffea1eb7c8d2b06ee3cf9	Arthropoda	Insecta	Hymenoptera				86.645	public	1	Order		4	1
+610368ed81cdc62277552e563e410ea0	Arthropoda	Insecta	Hymenoptera				85.938	public	1	Order		2--4	1
+98c2184553ef4193442467f8b80dce27	Arthropoda	Insecta	Lepidoptera				86.52	public	1	Order		1--4	1
+c407de864113418b6aa55d87e6711c4c	Arthropoda	Insecta	Hymenoptera				85.312	public	1	Order		4	1
+82e33e194f4aab633525dce790ec0861	Arthropoda	Insecta	Hemiptera				86.478	public	2	Order		1--2	1
+43994e27711c03de32b3a92b61d4fcef	Arthropoda	Insecta	Hemiptera				85.256	public	2	Order		1--2	1
+cadc44e4fe2f34a8543086eb9b553906	Arthropoda	Insecta	Hemiptera				85.35	public	2	Order		1--2	1
+b5dcc5b5b2c2b26021026434e8ffcd7d	Arthropoda	Insecta	Hymenoptera				85.667	public	1	Order		4	1
+e52d74b05483672c1ea32881d21b2179	Arthropoda	Insecta	Coleoptera				87.539	public	2	Order		2	1
+4e8441afbc3f78e2132b50755609f89d	Arthropoda	Insecta	Hymenoptera				86.875	public	1	Order		2--4	1
+cf8318bb7e5fa42e032ca0ba6e63170c	Arthropoda	Insecta	Hemiptera				85.535	public	2	Order		1--2	1
+555e0f17f50a370559e8e983cb593cb2	Arthropoda	Insecta	Hymenoptera				85.849	public	1	Order		4	1
+be938c05035e11af725bdfe88cff807c	Arthropoda	Insecta	Hemiptera				87.043	public	2	Order		1--2	1
+a540855249333fae9eb93c64fd169af9	Arthropoda	Insecta	Diptera				85.099	public	1	Order		1--4	1
+4ffc4d56c35fbd3a97d26cf1502324e3	Arthropoda	Insecta	Hymenoptera				85.893	public	1	Order		4	1
+a946d20d0f8beb9e7f6f262b015b2bca	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--2--4	1
+9036a206a098e884a449333fc759366c	Arthropoda	Insecta	Hymenoptera				85.032	public	1	Order		4	1
+24961575ca51eefdb8adf68bde6e8428	Arthropoda	Insecta	Lepidoptera				85.893	public	1	Order		1--4	1
+82bc5b500d3282591aa393f722c8c832	Arthropoda	Insecta	Hymenoptera				85.938	public	1	Order		4	1
+f6efba25f922f984aae7b3858c9be585	Arthropoda	Insecta	Lepidoptera				85.312	public	1	Order		1--4	1
+f8552f167ff7a36f805ddee4a0f18cc5	Arthropoda	Insecta	Coleoptera				87.5	public	2	Order		2	1
+d3401a93d4d254871836d3d8eab0f571	Arthropoda	Insecta	Lepidoptera				85.625	public	1	Order		1--4	1
+ad3bf18ed526567f10605233d1e9571f	Arthropoda	Insecta	Lepidoptera				87.812	public	1	Order		1--4	1
+b356ccdad1a0c27ca0eba50cb96a5bc2	Arthropoda	Insecta	Hymenoptera				85.625	public	1	Order		4	1
+46035bef3fbb8940d01a7236b0101a23	Arthropoda	Insecta	Lepidoptera				85.39	public	1	Order		1--4	1
+a0484d45dcb77e44758d1a711d085d0a	Arthropoda	Insecta	Hemiptera				85.209	public	2	Order		1--2	1
+737a016653b45750d543cb60dcfcbc77	Arthropoda	Insecta	Lepidoptera				85.0	public	1	Order		1--2--4	1
+ef963b98550be6c500652b23393f74b2	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+93786a769aedd2a3827b5e6b79853ac7	Arthropoda	Insecta	Hymenoptera				85.58	public	1	Order		4	1
+0e3a4640d6faba0b3cfcd01e2f2c9e94	Arthropoda	Insecta	Hymenoptera				85.625	public	1	Order		4	1
+79089575d6062b5102b94af723dce093	Arthropoda	Insecta	Hymenoptera				87.461	public	1	Order		4	1
+892b39a7a1c9b1b8614a61732c66ec67	Arthropoda	Insecta	Hymenoptera				86.834	public	1	Order		4	1
+c155c3708cfc9f1cbca4f1f6d9011ba9	Arthropoda	Insecta	Hemiptera				85.893	public	2	Order		1--2	1
+aaeafd2a80e0d0ca999ba188c4bf55c2	Arthropoda	Insecta	Hymenoptera				85.938	public	1	Order		4	1
+42330743311299055f7ff9266a810e85	Arthropoda	Insecta	Hymenoptera				86.645	public	1	Order		4	1
+c70db812ba567ef7c2cdbcc3116715bd	Arthropoda	Insecta	Hymenoptera				85.893	public	1	Order		4	1
+9ab628efff091e829f5c6bc5258a0215	Arthropoda	Insecta	Hemiptera				85.174	public	2	Order		1	1
+63739c850f5dde3e9e92a43da08121bd	Arthropoda	Insecta	Hymenoptera				85.623	public	1	Order		4	1
+c8346a974dad4810d9b8e314a2b15cce	Arthropoda	Insecta	Hymenoptera				85.266	public	1	Order		4	1
+cbb037bbf9f87b2a703929327a0dc851	Arthropoda	Insecta	Hymenoptera				85.893	public	1	Order		2--4	1
+2f4c2ab51f0f07324a43a9cc791488e7	Arthropoda	Collembola	Poduromorpha	Tullbergiidae	Mesaphorura	Mesaphorura yosii	100.0	public	3	Species	BOLD:AAG0679	2	1
+0d7179f7af36b8cd8e9178dd8b6caa9d	Arthropoda	Insecta	Hemiptera				87.421	public	2	Order		1--2	1
+d64fd5a193aa694f9e8275d29bda2d6d	Arthropoda	Insecta	Hymenoptera				86.25	public	1	Order		2--4	1
+ee222c58f56f572fd412605642181f6a	Arthropoda	Insecta	Hymenoptera				86.25	public	1	Order		4	1
+0f6196410972e2a4fc3ac1f4d7befb5e	Arthropoda	Insecta	Hemiptera				85.032	public	2	Order		1--2	1
+eead5b9d3ef9e98f41685a603c1c1b86	Arthropoda	Insecta	Lepidoptera				86.604	public	1	Order		1--4	1
+af34fa2cd9378c4ccd53fdffed2e2cdd	Arthropoda	Insecta	Lepidoptera				86.859	public	1	Order		1--4	1
+ceefe00927812de781eacac07869932b	Arthropoda	Insecta	Lepidoptera				89.062	public	1	Order		1--4	1
+bcd112059a47c688a999b4359cd8e7cb	Arthropoda	Insecta	Hymenoptera				86.25	public	1	Order		2--4	1
+785652e7adf1e8c04ee231b859aea4a9	Arthropoda	Insecta	Lepidoptera				85.67	public	1	Order		1--4	1
+4c3df001c43fe4c7dbd09be6184f40d3	Arthropoda	Insecta	Hemiptera				86.495	public	2	Order		1--2	1
+f1bfb105828dad49b7c5a71694e1ab8e	Arthropoda	Insecta	Hemiptera				85.58	public	2	Order		1--2	1
+80a5c3183974bd298eae1afcca5d8f8e	Arthropoda	Insecta	Coleoptera	Carabidae	Clivina	Clivina fossor	99.686	public	30	Species	BOLD:AAH0274;BOLD:AES2051	5	1
+d8296b8c24701bde0f6b6a0e65de29b0	Arthropoda	Insecta	Hymenoptera				88.401	public	1	Order		4	1
+43826f942713d50ca0acb25f01af8a44	Arthropoda	Insecta	Hemiptera				85.304	public	2	Order		1--2	1
+2ce572821fe37deeec685ef691d2c64e	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+aa283d9a48108423b6f5fd6a357f09b1	Arthropoda	Insecta	Lepidoptera				85.938	public	1	Order		1--4	1
+4e2e50f2b7169ad4cb86d716b1d1fbb2	Arthropoda	Insecta	Hymenoptera				86.834	public	1	Order		2--4	1
+2e3db5804a8fbe590d9b1455bf25fc6f	Arthropoda	Insecta	Lepidoptera				86.184	public	2	Order		1--2	1
+ab4ae242d3a84215c7fbe89037ea4433	Arthropoda	Insecta	Hymenoptera				87.5	public	1	Order		4	1
+40000cac9bd84c1d2738dd55a38292c8	Arthropoda	Insecta	Lepidoptera				85.312	public	1	Order		1--4	1
+f9e05d1465625358cee14e982f02852f	Arthropoda	Insecta	Hymenoptera				85.942	public	1	Order		4	1
+ecdd786673e0c47ea223d1fe3c4601d4	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+b06a884ad077769814497be2b0439ba7	Arthropoda	Insecta	Lepidoptera				85.902	public	2	Order		1--2	1
+13c39aee60e0582ad3a653a3a0cc92cc	Arthropoda	Insecta	Lepidoptera				86.604	public	1	Order		1--4	1
+6170d2acc8a7c8f3ff97d58046e30ca3	Arthropoda	Insecta	Hymenoptera				85.312	public	1	Order		2--4	1
+a377d4ca64629ef56fe8d847fceb6bab	Arthropoda	Insecta	Hemiptera				87.147	public	2	Order		1--2	1
+cd87e7652fb3f356f86e6b5c2f41750a	Arthropoda	Insecta	Lepidoptera				87.821	public	1	Order		1--4	1
+1f6d9229f3fc55a465ddced24672ebe5	Arthropoda	Insecta	Lepidoptera				85.39	public	1	Order		1--4	1
+121cfed01686633b520bcdc4fb9272dc	Arthropoda	Insecta	Hymenoptera				86.207	public	1	Order		4	1
+0bf7c243fb5cbf58f89cd48c9ff77c46	Arthropoda	Insecta	Hemiptera				85.58	public	2	Order		1--2	1
+8ef214c74cc9fe157f5783b2dd48b635	Arthropoda	Insecta	Coleoptera				87.385	public	2	Order		2	1
+91effbe6a3316b53f2c8769d45adcafd	Arthropoda	Insecta	Hemiptera				85.256	public	2	Order		1--2	1
+03a05ec38a780c10f083697225cc9bf5	Arthropoda	Insecta	Hemiptera	Aphididae			94.462	public	100	Family			1
+916745a0be07ca8b12aeb049cab1cb40	Arthropoda	Insecta	Hymenoptera				86.562	public	1	Order		2--4	1
+4139573d75b9c95b9b62c9d31d15ca83	Arthropoda	Insecta	Hymenoptera				85.938	public	1	Order		4	1
+c0b0f9789472ec3d8dce121e450aaff2	Arthropoda	Insecta	Lepidoptera				86.859	public	1	Order		1--4	1
+9dd7a995039e8a9266d03d80d0878297	Arthropoda	Insecta	Lepidoptera				87.578	public	2	Order		1--2	1
+6f0fe8094ecc4a5e9b8b95258fefb7f2	Arthropoda	Insecta	Lepidoptera				85.938	public	1	Order		1--2--4	1
+ea61ee73514077078c58ef82b0acd979	Arthropoda	Insecta	Lepidoptera				85.39	public	1	Order		1--4	1
+5bfba701836a8968a2b2ff1abfce47ce	Arthropoda	Insecta	Hymenoptera				87.188	public	1	Order		4	1
+03642386302ce8c672c02d120ce76093	Arthropoda	Insecta	Hymenoptera				85.893	public	1	Order		2--4	1
+1b6dd1fdd716089cb194eecd320e6cca	Arthropoda	Collembola	Entomobryomorpha	Isotomidae	Parisotoma	Parisotoma notabilis	100.0	public	31	Species	BOLD:AAA4157		1
+460134b10d287183ffcada17f3a30b74	Arthropoda	Insecta	Hymenoptera				85.893	public	1	Order		4	1
+8fcf3aeb3054b9f5bdf5a158f773b6bf	Arthropoda	Insecta	Lepidoptera				86.025	public	1	Order		1--2--4	1
+c147d04763c256711541b8161590bf3a	Arthropoda	Collembola	Entomobryomorpha	Isotomidae	Parisotoma	Parisotoma notabilis	100.0	public	31	Species	BOLD:AAA4157		1
+19a274e630e74f31ea6cd8047280c3c0	Arthropoda	Insecta	Hemiptera				85.849	public	2	Order		1--2	1
+9da083ade026d87469763f79c5796d0b	Arthropoda	Insecta	Hymenoptera				86.645	public	1	Order		4	1
+1f2a0583e5dae4fdf2f322b611aaff09	Arthropoda	Diplopoda	Julida				85.266	public	1	Order		4	1
+1e5c099b24294e7d0ded18b88a5cd652	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+445272c19768be260700e3202435d931	Arthropoda	Insecta	Lepidoptera				89.028	public	1	Order		1--4	1
+20cb9e10be220d30bb387094eef70bb3	Arthropoda	Insecta	Hymenoptera				85.047	public	1	Order		4	1
+7f5167b74659fff24caea9a148f4f4cd	Arthropoda	Insecta	Hemiptera				85.358	public	2	Order		1--2	1
+566c182a6df9e40e44cddbd28254f50f	Arthropoda	Insecta	Lepidoptera				88.438	public	1	Order		1--4	1
+495493c095842fa6317620c6e9ac214e	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+3a38a6fd6d3246146b80578bb618b8c9	Arthropoda	Insecta	Lepidoptera				86.538	public	1	Order		1--4	1
+0f589a6b7540e6f930af591ae5e516d3	Arthropoda	Insecta	Hymenoptera				86.25	public	1	Order		4	1
+56658655ba6bcf7d297678b7f2cce8b7	Arthropoda	Insecta	Lepidoptera	Gracillariidae			90.0	public	1	Family		1--4	1
+94e1925591306f49b1288be5911abb5e	Arthropoda	Insecta	Lepidoptera				86.604	public	1	Order		1--4	1
+b8a7000ef51881db69012c353e4224ef	Arthropoda	Insecta	Hymenoptera				85.623	public	1	Order		4	1
+0b3dc6acf900c8f4aa3eca23ba5c8c36	Arthropoda	Insecta	Lepidoptera				87.812	public	1	Order		1--4	1
+3ec9d09ed698b77d771d82ba9eecc822	Arthropoda	Insecta	Hymenoptera	Formicidae	Solenopsis	Solenopsis fugax	99.687	public	16	Species	BOLD:AAU1369;BOLD:ADX2878;BOLD:AEL6530;BOLD:AEK2690;BOLD:AED9635;BOLD:ADJ4796	5	1
+beceb98f47402b6622e4166e2b2bb3bb	Arthropoda	Insecta	Lepidoptera				88.125	public	1	Order		1--4	1
+a6421e2e17fed4a5b06ed60f8af133da	Arthropoda	Insecta	Hymenoptera				85.893	public	1	Order		4	1
+865eafa6f75f6a65a925d70fbcd371dd	Arthropoda	Insecta	Hymenoptera				85.714	public	1	Order		2--4	1
+764cc7f6bfefd74600ec4f9d58e72552	Arthropoda	Insecta	Hymenoptera				85.669	public	1	Order		4	1
+5b87bb96b012ea7ae28df11fb810f9dc	Arthropoda	Insecta	Hymenoptera				86.207	public	1	Order		2--4	1
+76a1912f0cd5e9be908b751809963a9e	Arthropoda	Insecta	Lepidoptera				85.197	public	1	Order		1--4	1
+3a38935ebb3339b8862b86676b193962	Arthropoda	Insecta	Hemiptera				85.535	public	2	Order		1--2	1
+e05937cc203af4253858b4336b132e1e	Arthropoda	Diplopoda	Polydesmida	Polydesmidae	Polydesmus	Polydesmus complanatus	99.06	public	5	Species	BOLD:AAN3546;BOLD:ACT7735;BOLD:AEG2061;BOLD:ACX0551;BOLD:ACZ3283	5	1
+0d8a4d798ff3186c5fc011abf650d466	Arthropoda	Insecta	Hemiptera				87.107	public	2	Order		1--2	1
+844bf6181c5a520f862290cad26e3c26	Arthropoda	Insecta	Hymenoptera				86.25	public	1	Order		2--4	1
+8b6730c4b0a69800de65efd1bbbeb191	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		96.094	public	1	Genus		1--4	1
+1ff96a08d3dbd1d5832432b0e4d22746	Arthropoda	Insecta	Lepidoptera				86.184	public	2	Order		1--2	1
+9e53e7afb6762849445b20f51933abdd	Arthropoda	Collembola	Poduromorpha	Tullbergiidae	Mesaphorura	Mesaphorura krausbaueri	100.0	public	1	Species	BOLD:AAC6790	4	1
+a9ee7db63caec886ae78d1d6854db4f3	Arthropoda	Insecta	Hymenoptera				85.0	public	1	Order		4	1
+7c28ae858fb096ab79fa38c82f895d42	Arthropoda	Insecta	Lepidoptera				89.375	public	1	Order		1--4	1
+ba80659186130265e8098e5f007d6897	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+8ffbaca9e68ff9fb5c7a691e1e76f883	Arthropoda	Insecta	Lepidoptera				85.266	public	1	Order		1--4	1
+7ed7aa945a61f73036352db9f6958829	Arthropoda	Insecta	Lepidoptera				85.625	public	1	Order		1--4	1
+08b960ecbef1b03bfdf02c8ff32e825a	Arthropoda	Insecta	Hymenoptera				85.625	public	1	Order		4	1
+8433daf39b37a12fe17c530cb928bec9	Arthropoda	Insecta	Hymenoptera				85.938	public	1	Order		4	1
+8e33e2e67d011fe39bee261f4303b22f	Arthropoda	Insecta	Hymenoptera				85.893	public	1	Order		4	1
+05f3acb583bfb2be1df11b587ba8bf86	Arthropoda	Collembola	Poduromorpha	Tullbergiidae	Mesaphorura	Mesaphorura yosii	100.0	public	3	Species	BOLD:AAG0679	2	1
+d7fd03a4c7214efe15d85a06eadf20e5	Arthropoda	Insecta	Hymenoptera				86.52	public	1	Order		2--4	1
+b20e2d1877d79c849ff3113025f02e37	Arthropoda	Insecta	Lepidoptera				85.981	public	1	Order		1--2--4	1
+ea7975f22e827c82238045f230ec4a15	Arthropoda	Insecta	Hymenoptera				85.22	public	1	Order		4	1
+31dba9c7c63c66c453cba5266960892a	Arthropoda	Insecta	Diptera	Drosophilidae	Scaptomyza	Scaptomyza pallida	100.0	public	97	Species	BOLD:AAG8493		1
+99b99d3e9947417d357335dede30c70d	Arthropoda	Insecta	Lepidoptera				88.782	public	1	Order		1--2--4	1
+fc71c1b1089a1d286f7fc97924599b74	Arthropoda	Insecta	Lepidoptera				87.227	public	1	Order		1--4	1
+b4ea8a99ef92599cbbb3aec1f07c63a6	Arthropoda	Insecta	Hymenoptera				86.875	public	1	Order		2--4	1
+29452803d3efe9564a2b63cc606f6e2e	Arthropoda	Insecta	Hymenoptera				85.577	public	1	Order		4	1
+ad0fd0f1c677dac2ffe24f49851af760	Arthropoda	Insecta	Hemiptera				85.58	public	2	Order		1--2	1
+6b87e38918b052b20fa00ddf168cc37e	Arthropoda	Insecta	Lepidoptera				88.438	public	1	Order		1--4	1
+9457cffe1080330cdba2df5aab768533	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+ae4c8936fffd19f8ff78fab1f4d6de33	Arthropoda	Insecta	Hymenoptera				88.401	public	1	Order		2--4	1
+18b4560a52d4295a01db9759b24f056d	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+6c5514ffccf79393f2e6b769ecb63c89	Arthropoda	Insecta	Lepidoptera				87.821	public	1	Order		1--4	1
+fcff84f757953ebc4de862d5eee2835b	Arthropoda	Insecta	Hymenoptera				87.5	public	1	Order		2--4	1
+87540638a9593c5f09bcb7071545c9bc	Arthropoda	Insecta	Hemiptera	Miridae			90.252	public	2	Family		1	1
+e20ac6cd71a9f406a71dd419d4513878	Arthropoda	Insecta	Lepidoptera				85.902	public	2	Order		1--2	1
+0eb4b84e840e15797a04492b21f3e8cb	Arthropoda	Insecta	Hymenoptera				87.188	public	1	Order		4	1
+2aa2435a0087ef72bd7fcb47ec3309ee	Arthropoda	Insecta	Lepidoptera				88.103	public	1	Order		1--4	1
+2cc975e1ec6d5a66ca6d1bac4cb264c3	Arthropoda	Insecta	Lepidoptera				86.52	public	1	Order		1--4	1
+13060b43207707aab49c5cfc1de6dfa2	Arthropoda	Insecta	Lepidoptera	Gracillariidae			90.064	public	1	Family		1--4	1
+290939083506c2fb0809bd5f9fcb4632	Arthropoda	Insecta	Hymenoptera				87.147	public	1	Order		4	1
+a1f86ecdad76f08fffc0f324b3290a11	Arthropoda	Insecta	Diptera	Cecidomyiidae			99.686	public	100	Family			1
+61ac3e6fbeb9418c8440970279aa5570	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+a6e2dcbec36048b7cd5f421d7a5589d7	Arthropoda	Insecta	Hymenoptera				87.147	public	1	Order		4	1
+15920f64b7ba94c3e2aca4dedbcce43c	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+3204122644deee89e9c38dc4cfb58661	Arthropoda	Insecta	Lepidoptera				88.438	public	1	Order		1--4	1
+42281129d17eea989f36c37cfab7ee25	Arthropoda	Insecta	Lepidoptera				85.893	public	1	Order		1--4	1
+346e4aad46216a399372f0cd8d7028f7	Arthropoda	Insecta	Hymenoptera				85.897	public	1	Order		4	1
+a07328e164b59c3c98e5c9adabb8712b	Arthropoda	Insecta	Lepidoptera	Gracillariidae			90.064	public	1	Family		1--4	1
+af18ff8114aae16c9069d4cfacfbf98b	Arthropoda	Insecta	Lepidoptera				89.062	public	1	Order		1--4	1
+d2f74003bc4d3aded5e007750b3dbafa	Arthropoda	Insecta	Hymenoptera				86.645	public	1	Order		4	1
+55ff2cf991e1205389b7cad9cf2f892a	Arthropoda	Insecta	Hymenoptera				86.875	public	1	Order		4	1
+d1406b9239cc582f6a46859a9a9ab4be	Arthropoda	Insecta	Hymenoptera				85.893	public	1	Order		4	1
+a9bc1da74ac42acb2b07dcaa6103afae	Arthropoda	Insecta	Hemiptera				85.266	public	2	Order		1--2	1
+ed596d9aaad742ef55f72c30c0cee895	Arthropoda	Insecta	Lepidoptera				86.025	public	1	Order		1--2--4	1
+fea155dbb78bae4737febacadac18706	Arthropoda	Insecta	Hymenoptera				86.562	public	1	Order		2--4	1
+088f43d88c5328d0617b90ae7955ecfe	Arthropoda	Collembola	Poduromorpha	Tullbergiidae	Mesaphorura	Mesaphorura krausbaueri	100.0	public	1	Species	BOLD:AAC6790	4	1
+f8fab153d151dde518c28ee40457c039	Arthropoda	Insecta	Hymenoptera				86.646	public	1	Order		2--4	1
+660b1a78046dd0447e5464a2c0e0142b	Arthropoda	Insecta	Hemiptera				86.039	public	2	Order		1--2	1
+5101914570df6b0235810fe62f56e489	Arthropoda	Insecta	Hymenoptera				85.623	public	1	Order		4	1
+3bf7301cb75e759606ee6f7f34f8d375	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+9f29aa35c015ce80731725678a43e67b	Arthropoda	Insecta	Lepidoptera				86.604	public	1	Order		1--4	1
+a8155eca66fdd045fa6488d0754a0ed6	Arthropoda	Insecta	Hemiptera				85.22	public	2	Order		1--2	1
+528548befd7c3c23bc140b3c4a44b6a4	Arthropoda	Insecta	Hymenoptera				86.293	public	1	Order		2--4	1
+89c497f899b327a8b4f3caffec0d8ebd	Arthropoda	Insecta	Lepidoptera				85.902	public	2	Order		1--2	1
+aedefc5557f6dacaefcca19619da7355	Arthropoda	Insecta	Lepidoptera				89.342	public	1	Order		1--4	1
+b4819a6e8ae204eb50663ac17f436af9	Arthropoda	Collembola	Neelipleona				85.266	public	1	Order		4	1
+a6442e9ce50a23793f375ee9c09d124b	Arthropoda	Insecta	Hymenoptera				87.948	public	1	Order		4	1
+6a8b5767bb4a3c1e37f23c3e2d57fbf0	Arthropoda	Insecta	Lepidoptera				88.162	public	1	Order		1--4	1
+8e3d2ba8ec9e0b4eb3eada1f62a4e22c	Arthropoda	Insecta	Hymenoptera				88.715	public	1	Order		2--4	1
+9edf1834036cb20dfd31ba81c5758021	Arthropoda	Insecta	Hymenoptera				85.0	public	1	Order		4	1
+c8a5c3836fc735f4cfee743cb06e1e31	Arthropoda	Insecta	Hemiptera				85.849	public	2	Order		1--2	1
+5a502d4ee91f35fe511a2492e97a96c3	Arthropoda	Insecta	Hemiptera				85.256	public	2	Order		1--2	1
+fce6e2c69cc5c3b745581027d703f6af	Arthropoda	Insecta	Hymenoptera				87.948	public	1	Order		4	1
+72f58f8178f892858bc6b69b1da1f01f	Arthropoda	Insecta	Hymenoptera				88.179	public	1	Order		2--4	1
+2d2cba39ef2ab7dc0cebef59e5147da0	Arthropoda	Insecta	Hemiptera				85.358	public	2	Order		1--2	1
+7b24dc94f224f797f89b0e8738b8e6c7	Arthropoda	Insecta	Lepidoptera				86.293	public	1	Order		1--4	1
+320a8be61476e8af800bc1dbd7382d62	Arthropoda	Insecta	Hemiptera				85.804	public	2	Order		1--2	1
+9f61ff7716708aeaf78b8a98ad17f50e	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+a41b6b48fac58857d13d9320f13f5bb6	Arthropoda	Insecta	Lepidoptera				88.462	public	1	Order		1--4	1
+83f94850ac74528bd735a7ce49f8f248	Arthropoda	Insecta	Hymenoptera				85.893	public	1	Order		4	1
+c6b05e34c266973cf6848f3bce865dd8	Arthropoda	Insecta	Lepidoptera				89.969	public	1	Order		1--4	1
+0cc50a74d64711cf036ae113286072fb	Arthropoda	Insecta	Lepidoptera				85.0	public	1	Order		1--4	1
+09c89c6d05ccb7bd4093f263a53802a4	Arthropoda	Insecta	Lepidoptera				86.604	public	1	Order		1--4	1
+748246594988ed59a0417cee27ed8a00	Arthropoda	Insecta	Hemiptera	Miridae			90.221	public	2	Family		1	1
+8a44a3754f8696d75468c11a1d26600a	Arthropoda	Collembola	Poduromorpha	Hypogastruridae	Ceratophysella	Ceratophysella gibbosa	99.06	public	1	Species	BOLD:ACH3242	4	1
+57505d4e887e2f5f90a6ac4ee6493122	Arthropoda	Insecta	Lepidoptera				86.495	public	1	Order		1--4	1
+edfda94d09c95fd6788f0406df7800ac	Arthropoda	Insecta	Hymenoptera				85.312	public	1	Order		4	1
+dd3c4e8d351f84da452c0286249079d8	Arthropoda	Insecta	Lepidoptera				85.938	public	1	Order		1--4	1
+ca100dcb64a2674eb6ab280228b4f1cc	Arthropoda	Insecta	Lepidoptera				87.5	public	1	Order		1--2--4	1
+470bc9ecc618c90654e5c4ea9f50610c	Arthropoda	Insecta	Hemiptera				85.535	public	2	Order		1--2	1
+7bed74df5e1c32b4269d36d5d6f2118d	Arthropoda	Insecta	Hymenoptera				85.67	public	1	Order		2--4	1
+d2fd6ebb708f4e0fb4fc537ba4b3144e	Arthropoda	Insecta	Hymenoptera				88.179	public	1	Order		2--4	1
+9882bf5e1aec19e9e5076b83eac2c385	Arthropoda	Collembola	Poduromorpha	Hypogastruridae	Ceratophysella	Ceratophysella gibbosa	99.057	public	1	Species	BOLD:ACH3242	4	1
+da1b8e7f6fa875ca14a1c98cba4f58e6	Arthropoda	Insecta	Lepidoptera				87.539	public	1	Order		1--4	1
+888bf9d851782d0384d18d99e4afe7a2	Arthropoda	Insecta	Hymenoptera				86.52	public	1	Order		2--4	1
+f4f75bb7447d0fcff33bb33a61d50367	Arthropoda	Insecta	Hymenoptera				85.312	public	1	Order		4	1
+251fdf69d398a502d44a09336e6f16cc	Arthropoda	Insecta	Hymenoptera				85.714	public	1	Order		2--4	1
+df171de872c4db1fe9ace789965eae2a	Arthropoda	Insecta	Lepidoptera				86.184	public	2	Order		1--2	1
+8a8a44579ba28f6a2c6c06efd204eaa3	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		97.5	public	1	Genus		1--4	1
+1dee898f9fcc4ce93e1689d532ec4b4a	Arthropoda	Insecta	Hymenoptera				85.625	public	1	Order		4	1
+6db7a46c2348007d02408f2a1734fce8	Arthropoda	Insecta	Hymenoptera				86.392	public	1	Order		4	1
+2f25fdbed41d0a4e2f5017e605f43f05	Arthropoda	Insecta	Hymenoptera				88.141	public	1	Order		2--4	1
+b823d684552e53a5887db6da9c8f3733	Arthropoda	Insecta	Lepidoptera				87.227	public	1	Order		1--2--4	1
+7a0a4b905abbfcba185aa92b85a52f94	Arthropoda	Insecta	Lepidoptera				87.54	public	1	Order		1--2--4	1
+07279f8307f0df5568482df1f1291795	Arthropoda	Insecta	Hemiptera				85.623	public	2	Order		1--2	1
+e538a67db6de22f3252c4496db06e7ae	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+4372d433ee0296999eecb731415f15e7	Arthropoda	Insecta	Lepidoptera				85.67	public	1	Order		1--4	1
+345d0de7ffebb5036a1611b773fe5294	Arthropoda	Insecta	Hymenoptera				85.58	public	1	Order		4	1
+44129d87c94a3aebabd4566c9c709de4	Arthropoda	Insecta	Hymenoptera				85.312	public	1	Order		2--4	1
+acaff6d21b9846d3a78ce03cd3f268ea	Arthropoda	Insecta	Hymenoptera				85.849	public	1	Order		2--4	1
+9d3f2c90e5ed4f069ba26fce73c3afa7	Arthropoda	Collembola	Symphypleona	Katiannidae	Sminthurinus	Sminthurinus aureus	99.054	public	10	Species	BOLD:AEL6752;BOLD:AEN5991;BOLD:ACF6317;BOLD:AAB5299;BOLD:ACE3690;BOLD:ABY6147;BOLD:ADH7841	2--5	1
+5391b4551dec6db78ec166a08c09a32a	Arthropoda	Insecta	Coleoptera				87.227	public	2	Order		2	1
+cd2ef3b016d53c637900c13f2835d8f9	Arthropoda	Arachnida	Sarcoptiformes	Acaridae	Rhizoglyphus	Rhizoglyphus robini	99.065	public	7	Species	BOLD:AAX8972;BOLD:ADR7938	5	1
+bb91a66ec15b6a29d2f9c5e6eff76b3f	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+f26f623315a16c8d2f54e42be7f6a955	Arthropoda	Insecta	Lepidoptera				87.188	public	1	Order		1--4	1
+a8d8e15693ea795ff97bded6cfb02b89	Arthropoda	Insecta	Lepidoptera				87.578	public	2	Order		1--2	1
+f8f2712b5efb1ae8707a300383e7ce63	Arthropoda	Insecta	Hemiptera				85.266	public	2	Order		1--2	1
+b837b0939791254c7490473b32d1e7b5	Arthropoda	Insecta	Lepidoptera				85.312	public	1	Order		1--4	1
+145ccd89433a8fe0bcd0ad664f8eeb71	Arthropoda	Insecta	Hemiptera				85.574	public	2	Order		1--2	1
+1b01e2b2653877d05eb3e9593cee390e	Arthropoda	Insecta	Hemiptera	Miridae			92.476	public	2	Family		1	1
+1f2d527f63a7791d10e932b3a2628a3d	Arthropoda	Insecta	Lepidoptera				85.197	public	1	Order		1--4	1
+6e74e8e586b6107677faa69a4a950943	Arthropoda	Insecta	Lepidoptera				86.293	public	1	Order		1--4	1
+bdf273de6cefc763d636e0cab839cbb6	Arthropoda	Insecta	Hemiptera				85.58	public	2	Order		1--2	1
+6f776722f4155b91255c6c06e6098584	Arthropoda	Insecta	Lepidoptera				87.227	public	1	Order		1--4	1
+4f8046ed172207aa6576bafa448d0505	Arthropoda	Insecta	Hemiptera	Miridae			92.453	public	2	Family		1	1
+6d8a2654cac5676c380a5a5939c0ef4d	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+161968d446b016903bd6b287b501434f	Arthropoda	Insecta	Lepidoptera				86.538	public	1	Order		1--4	1
+899cfbfd75f174e0f4c594d2ff03b339	Arthropoda	Insecta	Lepidoptera				85.294	public	1	Order		1--2--4	1
+4ffb11fff78518e5144342a6139b637e	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+4291b8df205b7812b32c9f08c591d7e2	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+d5f7b0626c8b91d2844056ec3199fa1f	Arthropoda	Insecta	Lepidoptera				85.58	public	1	Order		1--4	1
+2bde729a0630f7743f8f162c966c5d6f	Arthropoda	Insecta	Hymenoptera				86.207	public	1	Order		2--4	1
+a99111997df64d81ba1976468ec3de41	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+85fe76741f202c2752bac327c56eb6c2	Arthropoda	Insecta	Lepidoptera				88.401	public	1	Order		1--4	1
+532e292d0aac405f188ead08c4626386	Arthropoda	Arachnida	Sarcoptiformes	Euphthiracaridae	Acrotritia	Acrotritia ardua	98.742	public	1	Species	BOLD:AAF9157		1
+f9dd16ac1402dfc6be9bec222f58c749	Arthropoda	Insecta	Hemiptera				85.22	public	2	Order		1--2	1
+d21e0fa1d6086d6e01a5c4f1486016fe	Arthropoda	Insecta	Hymenoptera				87.5	public	1	Order		2--4	1
+5c00ec75d7ce1be5dcb6035d7c09e2ef	Arthropoda	Insecta	Lepidoptera				86.52	public	1	Order		1--4	1
+8621384e856910437790ee768010f804	Arthropoda	Insecta	Lepidoptera				85.312	public	1	Order		1--4	1
+d55b626a80ce67d7688281d3390f1dd4	Arthropoda	Insecta	Lepidoptera				88.401	public	1	Order		1--4	1
+7bd04c5776bd2032415a6cb743db0452	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+c79ea074fc9cf5fd1fcd7abf27bd2edf	Arthropoda	Insecta	Lepidoptera				85.938	public	1	Order		1--2--4	1
+c3daef2831aa69967616007b858c9d08	Arthropoda	Insecta	Hemiptera				85.849	public	2	Order		1--2	1
+6e221234717589d481fab07adeb8a9ff	Arthropoda	Insecta	Hymenoptera				87.461	public	1	Order		4	1
+405db7470955ba3df63cdc067b2ab0b2	Arthropoda	Insecta	Lepidoptera	Gracillariidae			90.0	public	1	Family		1--4	1
+e9a08083de76b0e7f7add9c0c2f846eb	Arthropoda	Insecta	Hymenoptera				85.312	public	1	Order		2--4	1
+8f6b9d45d73d2d9e77c3d07b05c7ae72	Arthropoda	Insecta	Diptera	Sciaridae			100.0	public	53	Family			1
+ae3f540ca7c4c32a4135376cb48759a3	Arthropoda	Insecta	Lepidoptera				85.256	public	1	Order		1--4	1
+e5c65894af7e9d695dc103de4c15eaa1	Arthropoda	Insecta	Hemiptera				86.262	public	2	Order		1--2	1
+44241600fdacc0682fade818f4e8abd8	Arthropoda	Insecta	Hemiptera				85.849	public	2	Order		1--2	1
+1490481ee7c755b29b6a66db26b82f56	Arthropoda	Insecta	Hemiptera				85.032	public	2	Order		1--2	1
+a6fd37d3027dd520fb32257e9276051f	Arthropoda	Collembola	Poduromorpha	Tullbergiidae	Mesaphorura	Mesaphorura krausbaueri	100.0	public	1	Species	BOLD:AAC6790	4	1
+5f9a8e384e2af739adb3ae3d605819b8	Arthropoda	Insecta	Lepidoptera				88.462	public	1	Order		1--4	1
+53e60b4717cdccf4e1bb619b73aa1b92	Arthropoda	Arachnida	Sarcoptiformes				89.028	public	99	Order			1
+e96a5fbc019382e69568261b384891f6	Arthropoda	Insecta	Lepidoptera				86.025	public	2	Order		1--2	1
+f3ac53d070e30e128f33524a57671229	Arthropoda	Insecta	Hemiptera				85.577	public	2	Order		1--2	1
+727f5455dfb91dcf3bcf221b62c1016a	Arthropoda	Insecta	Hymenoptera				85.897	public	1	Order		4	1
+511cf1a612496534712e5b808e5e6693	Arthropoda	Insecta	Hymenoptera				85.266	public	1	Order		4	1
+dd87eafb59ddc7f3a6644d90d39af5a5	Arthropoda	Insecta	Hemiptera				85.35	public	2	Order		1--2	1
+64861dd9eb15880a8d11a3514dd3e039	Arthropoda	Insecta	Hymenoptera				85.304	public	1	Order		4	1
+5e419b4acd06863ffcd777046a414074	Arthropoda	Insecta	Lepidoptera				85.484	public	1	Order		1--4	1
+2929818e12fd875060787aa13dce8e9f	Arthropoda	Insecta	Hemiptera	Miridae			90.221	public	2	Family		1	1
+1a629214e96d76aa0052d04f347ff726	Arthropoda	Insecta	Lepidoptera				86.52	public	1	Order		1--4	1
+34060c2ba99670fe216c3d5046ca443b	Arthropoda	Insecta	Lepidoptera				89.062	public	1	Order		1--4	1
+7c02c09e20d0b368b35be2f3756f4d05	Arthropoda	Insecta	Lepidoptera				85.897	public	2	Order		1--2	1
+3e8b0779ae40bbc8d08fa7cf9de1af4f	Arthropoda	Insecta	Hymenoptera				85.58	public	1	Order		4	1
+c0a420fc5123afde08ce15e4d7519660	Arthropoda	Insecta	Hemiptera				85.535	public	2	Order		1--2	1
+3370734157db4afdf83bdb5dc743c7b6	Arthropoda	Insecta	Lepidoptera				86.379	public	1	Order		1--4	1
+249065543ee54d979d5b6c5615b96d1a	Arthropoda	Insecta	Coleoptera	Cantharidae			91.562	public	2	Family			1
+6239d3e3436e1f20af944b70c4cc23dc	Arthropoda	Insecta	Lepidoptera				85.079	public	1	Order		1--4	1
+79d7530a669bcd223ec1312d66f34767	Arthropoda	Insecta	Hymenoptera				85.625	public	1	Order		4	1
+fe7e34d75cef7b56c89ac9b56b7a403b	Arthropoda	Insecta	Hymenoptera	Formicidae	Tetramorium	Tetramorium caespitum	99.686	public	3	Species	BOLD:ACQ7096;BOLD:AAM2220;BOLD:AAN2703;BOLD:AEB0187	2--5	1
+69195e879d7ac47c58fdc390f0f59f83	Arthropoda	Collembola	Neelipleona				85.22	public	1	Order		4	1
+eac18d456ae88bc65d882d83dd523338	Arthropoda	Insecta	Hemiptera				85.535	public	2	Order		1--2	1
+096da237357b72b8f937671b18809ddc	Arthropoda	Collembola	Symphypleona	Katiannidae	Sminthurinus		98.333	public	10	Genus			1
+23caf245b7b2824f6337656b47687f7e	Arthropoda	Diplopoda	Julida	Julidae	Brachyiulus	Brachyiulus bagnalli	99.371	public	1	Species	BOLD:ACB4623	4	1
+cfcb2f2ab2c56af7e35aa75112312bd4	Arthropoda	Insecta	Coleoptera	Cantharidae			91.385	public	2	Family			1
+068d120578dd905d47ba22496527868c	Arthropoda	Insecta	Lepidoptera	Gracillariidae			90.0	public	1	Family		1--4	1
+abc9fa53757ca6333f34b0d5acb70b43	Arthropoda	Copepoda	Calanoida				85.404	public	1	Order		4	1
+51de3c59e96b524b63d5b6c688c9142a	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		97.5	public	1	Genus		1--4	1
+3bcc1f6fa988b767c256bda75ac42358	Arthropoda	Insecta	Hemiptera				85.22	public	2	Order		1	1
+03313a037b3181366f1c85e32f20d433	Arthropoda	Insecta	Hymenoptera				85.849	public	1	Order		2--4	1
+8adcd9a39314c6f8a61566bfc3e1076e	Arthropoda	Insecta	Hemiptera				85.849	public	2	Order		1--2	1
+db01472725c69a6ecad794a220dba12a	Arthropoda	Copepoda	Calanoida				85.494	public	1	Order		4	1
+448699775ad530f302c29825fdeb9fe3	Arthropoda	Insecta	Hemiptera				86.557	public	2	Order		1--2	1
+45a7fc7401188d823184e7ea06061845	Arthropoda	Insecta	Lepidoptera				85.197	public	1	Order		1--4	1
+32e3077afb3e60c8044a4c1f1e8249bc	Arthropoda	Insecta	Lepidoptera				86.068	public	2	Order		1--2	1
+f5b410e599eda1754320170bc31730a3	Arthropoda	Insecta	Lepidoptera				85.849	public	1	Order		1--4	1
+47395493b23673cda8275d558026006e	Arthropoda	Insecta	Hemiptera				86.164	public	2	Order		1--2	1
+d6010d86600026b91337e0c4ac08eb20	Arthropoda	Insecta	Hymenoptera				87.461	public	1	Order		2--4	1
+7c544c78fdd5c56e7b44e0c7dbc355f2	Arthropoda	Insecta	Hemiptera				85.849	public	2	Order		1--2	1
+f966488e685557db3be5265657b5572f	Arthropoda	Insecta	Hymenoptera				86.834	public	1	Order		2--4	1
+7a550a9bac060317f4648f5d3aa1149f	Arthropoda	Insecta	Hemiptera	Miridae			90.252	public	2	Family		1	1
+16eed569ec32aa66851d5d2abcc02475	Arthropoda	Insecta	Hemiptera				86.039	public	2	Order		1--2	1
+91cbded1e7d9506cb914cf7eb6f2ba5e	Arthropoda	Insecta	Lepidoptera				85.938	public	1	Order		1--4	1
+ddeab9587bbcfa91181725ef8ab24d81	Arthropoda	Insecta	Coleoptera				85.667	public	2	Order		2	1
+b2a4cdf9e33fdcd9a60c4aeb10394574	Arthropoda	Insecta	Lepidoptera				85.256	public	1	Order		1--4	1
+c32a4a3761d22363debfdb34fd469152	Arthropoda	Insecta	Lepidoptera				86.495	public	1	Order		1--4	1
+c1dc91f7b0078b6348da46ca54c11b7b	Arthropoda	Insecta	Coleoptera				86.604	public	2	Order		2	1
+fe64db57fb9284bd0f83fb2b84f40a08	Arthropoda	Insecta	Hemiptera				87.107	public	2	Order		1--2	1
+b1a25f8481e19cc228934358c5f50f1b	Arthropoda	Insecta	Lepidoptera				87.5	public	1	Order		1--2--4	1
+dc02d6a9d5de0feeaa2553d05fdcb6b8	Arthropoda	Insecta	Coleoptera	Cantharidae			91.589	public	2	Family			1
+f08ef6f341f6874032a6a3ed379e71c3	Arthropoda	Insecta	Hemiptera				87.147	public	2	Order		1--2	1
+1ad6324adb01784f10f4abd6fe704399	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+774c53f5d51b8ff89feb255e93be0475	Arthropoda	Chilopoda	Lithobiomorpha	Lithobiidae	Lithobius	Lithobius microps	100.0	public	18	Species	BOLD:AAH6432;BOLD:AFV5072;BOLD:AFX2821;BOLD:ABW8981;BOLD:AAM7904;BOLD:AAH6431;BOLD:ACV1331;BOLD:AAK6671	5	1
+c5f71a96b22cf299b632b230d5fbd669	Arthropoda	Insecta	Lepidoptera				85.574	public	2	Order		1--2	1
+0323d0848ef03675339517780fadc673	Arthropoda	Insecta	Diptera	Sciaridae	Corynoptera	Corynoptera perpusilla	100.0	public	95	Species	BOLD:AAN6447	1	1
+45d035b6e444f387f29ddd3afe65df9f	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+65ec0191e94a06866ed4cee1278d5a2b	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+2af97ae4de39fc119e32e3eb9ceaa435	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+c6d5bda1e44596f143d59913e442c574	Arthropoda	Insecta	Lepidoptera				85.893	public	1	Order		1--4	1
+b4f30bf24bed9482255efa3d0ea45a90	Arthropoda	Arachnida	Sarcoptiformes	Euphthiracaridae	Acrotritia	Acrotritia ardua	98.746	public	1	Species	BOLD:AAF9157		1
+a72224d6f66978117fde1e9f428f2537	Arthropoda	Insecta	Lepidoptera				87.5	public	1	Order		1--2--4	1
+7b708a1cf3856d6d7367e13233c55e86	Arthropoda	Insecta	Lepidoptera				87.46	public	1	Order		1--2--4	1
+46007b35575efc7f835e8d455fd77433	Arthropoda	Insecta	Hymenoptera				85.804	public	1	Order		2--4	1
+525c98f5f8db1271b8f3dcc44ffe3360	Arthropoda	Insecta	Lepidoptera				87.188	public	1	Order		1--2--4	1
+d110c1b5b5aa0c38ec8743b43e84d3d8	Arthropoda	Insecta	Lepidoptera				85.938	public	1	Order		1--2--4	1
+ea2e60b4520947460ad24773bb2e84a5	Arthropoda	Insecta	Hymenoptera				87.461	public	1	Order		4	1
+f83e6d675b50325ffaa5c1212f37e593	Arthropoda	Insecta	Hymenoptera	Formicidae	Ponera	Ponera coarctata	100.0	public	87	Species	BOLD:AAU2930	2	1
+c6a2a24362efbb0ce58277afbf73446d	Arthropoda	Insecta	Lepidoptera				85.981	public	1	Order		1--2--4	1
+0e55ed0445f234c37cced7b103d1684e	Arthropoda	Insecta	Lepidoptera				86.25	public	1	Order		1--4	1
+3364ea35da60ada5a72be2314361e6e7	Arthropoda	Insecta	Coleoptera	Cantharidae			91.358	public	2	Family			1
+fad3dbf8380f7e81738486dcff05fae5	Arthropoda	Insecta	Lepidoptera				87.539	public	1	Order		1--4	1
+17ec2cb69dcb4c0a37e70a6d9d37c872	Arthropoda	Insecta	Lepidoptera				85.197	public	1	Order		1--4	1
+f550629ee45d30d1497df5be9b2c0de8	Arthropoda	Insecta	Diptera	Sciaridae	Corynoptera	Corynoptera perpusilla	100.0	public	95	Species	BOLD:AAN6447	1	1
+a5d1ba5c8ab9d8531b2aadea6e0cdf7b	Arthropoda	Collembola	Poduromorpha	Hypogastruridae	Ceratophysella	Ceratophysella gibbosa	99.06	public	1	Species	BOLD:ACH3242	4	1
+f59e56e443154d650495e79e0e2b8121	Arthropoda	Insecta	Hymenoptera				87.147	public	1	Order		4	1
+c67e74d656c4f62e93025694edc3aff6	Arthropoda	Insecta	Hemiptera				85.22	public	2	Order		1--2	1
+8a03b3b081e84b54d2919243c30dc5cd	Arthropoda	Insecta	Hymenoptera				86.139	public	1	Order		2--4	1
+06d17b1a034746c7adc7e5f40e55d832	Arthropoda	Insecta	Lepidoptera				85.256	public	1	Order		1--4	1
+9f4bbad62606a3afa6601133576f4217	Arthropoda	Insecta	Lepidoptera	Gracillariidae			90.0	public	1	Family		1--4	1
+fb09428b09f93d14c5eb6611d5b03d27	Arthropoda	Insecta	Lepidoptera				87.781	public	1	Order		1--4	1
+aea2385a220c99e7c00409a9980274b5	Arthropoda	Insecta	Lepidoptera				86.604	public	1	Order		1--4	1
+f310408d2c05f0c1c52e5a199045c9c6	Arthropoda	Insecta	Hemiptera				85.174	public	2	Order		1	1
+41f1a1415f57908142347a58689a10a3	Arthropoda	Insecta	Lepidoptera				85.625	public	1	Order		1--4	1
+999273431d3c4c73101e1feba43370e7	Arthropoda	Insecta	Lepidoptera				88.125	public	1	Order		1--4	1
+99de0fe4a7b56c5019c1431e9feb07ed	Arthropoda	Insecta	Coleoptera				85.032	public	1	Order		2--4	1
+6311f3f318dacad179870b6ab802e7dd	Arthropoda	Insecta	Lepidoptera				85.526	public	1	Order		1--4	1
+de3480fb6b7ae45b0a3eff8234a9cbca	Arthropoda	Copepoda	Calanoida				85.139	public	1	Order		4	1
+b92631f373d88503396d5106cf9aa374	Arthropoda	Insecta	Hymenoptera				87.267	public	1	Order		4	1
+5e53c3511af40c0951c375f0c8714289	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		97.656	public	1	Genus		1--4	1
+7cdcda47c19e53938488078d33d17a5a	Arthropoda	Insecta	Hymenoptera				85.67	public	1	Order		2--4	1
+2f8008c3e9678cc4389cd480a3d1c420	Arthropoda	Insecta	Lepidoptera				87.188	public	1	Order		1--4	1
+c15a40ea3c10f9f38c44c015dde304e9	Arthropoda	Insecta	Diptera				86.139	public	48	Order			1
+7c5f0bbd65db0f84d60a65e93d8f0611	Arthropoda	Insecta	Hymenoptera				85.625	public	1	Order		4	1
+5d560ec395ab5642a8237c0be2a64b84	Arthropoda	Insecta	Lepidoptera				86.379	public	1	Order		1--4	1
+8591a209cba1f3bd70b52f8adf4ded5f	Arthropoda	Arachnida	Sarcoptiformes				88.994	public	99	Order			1
+2d0663ea959c9daed38d3d5c1e375a82	Arthropoda	Insecta	Lepidoptera				85.149	public	1	Order		1--4	1
+7c8cafb5c249adc387f600e10ebbebb0	Arthropoda	Insecta	Coleoptera				85.032	public	1	Order		2--4	1
+2793864e7fc6821ff6dad8052cbb4fc1	Arthropoda	Insecta	Lepidoptera				87.227	public	1	Order		1--4	1
+113ab2bed5d79b611060ff98aeca7329	Arthropoda	Insecta	Hemiptera				85.489	public	2	Order		1--2	1
+7a96aaaf4b5dc62ef88e1afdef460ea9	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+59d56df6ad747b3f3fa3cbc14b687bdc	Arthropoda	Insecta	Hemiptera				85.669	public	2	Order		1--2	1
+2397b1fe17ca5c752d07374d17d01fb5	Arthropoda	Insecta	Lepidoptera				88.462	public	1	Order		1--4	1
+b1a92f3813aaa10c820118039e982c2b	Arthropoda	Insecta	Hemiptera				85.174	public	2	Order		1--2	1
+5617af03bcc6ddf97642542320c78b99	Arthropoda	Insecta	Hymenoptera				87.5	public	1	Order		2--4	1
+68442d8a0e54433a8644a1b96aa18c4d	Arthropoda	Insecta	Hemiptera				86.557	public	2	Order		1--2	1
+8662ff73dbddda3c6462d0709d9cfc68	Arthropoda	Insecta	Lepidoptera				85.0	public	1	Order		1--4	1
+d31d70d2823f7e31737a3c1607264f98	Arthropoda	Insecta	Hymenoptera				85.0	public	1	Order		4	1
+134d8032a2461d5497a1bc43dabc3831	Arthropoda	Insecta	Lepidoptera				86.25	public	1	Order		1--4	1
+11422e005cec06c14ac5d17f2a6c63fe	Arthropoda	Insecta	Hemiptera				85.22	public	2	Order		1--2	1
+ed14ea0178bc17d6c387e5833a6a1d08	Arthropoda	Copepoda	Calanoida				85.397	public	1	Order		4	1
+92b8795f12f76ce7c463a017631bf73c	Arthropoda	Insecta	Hymenoptera	Formicidae	Ponera	Ponera coarctata	100.0	public	87	Species	BOLD:AAU2930	2	1
+8cb7afe4278a957b03520a03e931008d	Arthropoda	Insecta	Hymenoptera				85.0	public	1	Order		4	1
+cec925f1c5be5aad43c44bc39a6e1efa	Arthropoda	Insecta	Hemiptera				86.12	public	2	Order		1--2	1
+07b9e647b42bf49e6e29bb4c9a5c5cdc	Arthropoda	Insecta	Lepidoptera				88.462	public	1	Order		1--4	1
+4ffeff8f9b027d4c472444ac20b3dea2	Arthropoda	Insecta	Lepidoptera				86.129	public	1	Order		1--4	1
+24c058c74a30df14b6b3c6f49c069204	Arthropoda	Insecta	Lepidoptera				85.625	public	1	Order		1--4	1
+2823fbb91e460bec83e3cfb6123c3a60	Arthropoda	Insecta	Hymenoptera				88.217	public	1	Order		4	1
+dc47b5b14c1238c5d44209969d2eed6e	Arthropoda	Copepoda	Calanoida				85.404	public	1	Order		4	1
+c41f8be36cc98eb23676c59238414461	Arthropoda	Insecta	Lepidoptera				85.358	public	1	Order		1--4	1
+9743e996716aad13d0e48d36f5927061	Arthropoda	Copepoda	Calanoida				86.335	public	1	Order		4	1
+5d38b842865e32084d85669576166374	Arthropoda	Collembola	Entomobryomorpha	Entomobryidae			100.0	public	6	Family			1
+587c1fecd339934a3e61dfd08a56f297	Arthropoda	Insecta	Hemiptera				86.792	public	2	Order		1--2	1
+e702abefd175d7f7f49f3e14bef72037	Arthropoda	Insecta	Hemiptera	Miridae			93.103	public	2	Family		1	1
+29c244a2dcecc694842d9973be222d40	Arthropoda	Insecta	Lepidoptera				85.58	public	1	Order		1--4	1
+879c6ab1e55b2a84cadcf800f06de35b	Arthropoda	Insecta	Hymenoptera	Diapriidae			90.282	public	1	Family		4	1
+909cf0cf8ff99b49ddb1879a0acdb61e	Arthropoda	Insecta	Hymenoptera				85.804	public	1	Order		2--4	1
+19b02e30167e758d421659f648739470	Arthropoda	Insecta	Lepidoptera				86.293	public	1	Order		1--4	1
+c4fe4e2fa2e68306a0359d68de3a1128	Arthropoda	Insecta	Hemiptera				85.266	public	2	Order		1--2	1
+6ce70a5fb25ceafdc43119033fe1f41a	Arthropoda	Insecta	Lepidoptera				85.938	public	1	Order		1--2--4	1
+09b0c2b5e85f7f54ae9ff5c2db3516aa	Arthropoda	Diplura	Rhabdura	Campodeidae	Campodea	Campodea fragilis	98.457	public	2	Species	BOLD:ADC6342		1
+e2b9f99ea9aec6ca4690b22336e0a599	Arthropoda	Insecta	Hemiptera				85.849	public	2	Order		1--2	1
+f7b24a39780e27d588dd689f76e021e0	Arthropoda	Insecta	Hymenoptera				85.0	public	1	Order		4	1
+a98afbddaf0dcd161e975cc032f4a7e8	Arthropoda	Insecta	Lepidoptera				87.188	public	1	Order		1--4	1
+8ce16da0bda4fd810599c3cdc07069f4	Arthropoda	Insecta	Lepidoptera				89.028	public	1	Order		1--4	1
+a91cd88392f771369968ff5cfccec232	Arthropoda	Insecta	Lepidoptera				85.266	public	1	Order		1--4	1
+cbd645725480d25ae7f2793e2fddba77	Arthropoda	Insecta	Lepidoptera				88.125	public	1	Order		1--4	1
+143f956ab6b369e63c05f07f63c37976	Arthropoda	Insecta	Hymenoptera				86.875	public	1	Order		2--4	1
+5fc61bcffd3687369146d2b535578dd5	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		96.094	public	1	Genus		1--4	1
+b98ec4bca67d828823dd752bcee4f2c8	Arthropoda	Insecta	Hemiptera				89.308	public	2	Order		1--2	1
+6ea8a8784723ff9576379326e5a4abf8	Arthropoda	Collembola	Symphypleona	Katiannidae	Sminthurinus		96.53	public	14	Genus			1
+ba6f91afc344545705bad14b303bdd8c	Arthropoda	Insecta	Hymenoptera				86.792	public	1	Order		2--4	1
+b817c1e6e80a6ad5cc688a37ca55b4b5	Arthropoda	Insecta	Hemiptera				86.164	public	2	Order		1--2	1
+e027a7821080647eb718dbda5bfd7533	Arthropoda	Insecta	Lepidoptera				85.358	public	1	Order		1--2--4	1
+9549c17d22dd81f1d379355f40d67f0f	Arthropoda	Insecta	Coleoptera				88.75	public	3	Order		2	1
+10877a096b82e104125844f97b526e43	Arthropoda	Insecta	Lepidoptera				85.574	public	2	Order		1--2	1
+1bb523a0665f5bc5c8208421245f5a17	Arthropoda	Insecta	Hemiptera				87.255	public	2	Order		1--2	1
+3efbc6f1bb77a16468fc3010e825d4c2	Arthropoda	Insecta	Hemiptera				85.35	public	2	Order		1--2	1
+20948ef95716e419d81674d438f011d1	Arthropoda	Insecta	Lepidoptera				85.625	public	1	Order		1--4	1
+3a179d2e27ee26327f2870a19392ea4d	Arthropoda	Insecta	Lepidoptera				85.897	public	2	Order		1--2	1
+6a7b7659c51cd4fdf0f19858d5201bc8	Arthropoda	Insecta	Coleoptera				87.188	public	2	Order		2	1
+3b332c00762417f4e2a6105ee13c1141	Arthropoda	Insecta	Hymenoptera	Diapriidae			90.312	public	1	Family		4	1
+6cbb504d82a449ccf5135d3de99a5785	Arthropoda	Insecta	Hemiptera	Miridae			92.476	public	2	Family		1	1
+1d0e41c4d090198cbcac065072495b12	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+ee5bdf3921595371adcc8362d60a51d4	Arthropoda	Collembola	Symphypleona	Katiannidae	Sminthurinus		97.161	public	14	Genus			1
+94addde3d3069c0bed98d3f095f4c1f4	Arthropoda	Insecta	Hymenoptera				86.875	public	1	Order		4	1
+4bfb3d5ece1523ca73951ac01ac01823	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+733f978c76f67e367289e646ea1ab6bc	Arthropoda	Insecta	Hemiptera				85.577	public	2	Order		1--2	1
+6464091940c40aa748361f6be952e716	Arthropoda	Insecta	Hymenoptera				88.088	public	1	Order		2--4	1
+6346918794e99f7412d20b2a18d80ba4	Arthropoda	Insecta	Hymenoptera				85.266	public	1	Order		2--4	1
+d325363afbf6bfbc996f33827390e74c	Arthropoda	Insecta	Hymenoptera				87.147	public	1	Order		2--4	1
+5e8a94285dd0ef782ea9dbd06cb49459	Arthropoda	Insecta	Hymenoptera				86.335	public	1	Order		2--4	1
+5ac23883c08b79d57300ea9add4caae5	Arthropoda	Insecta	Hymenoptera				85.312	public	1	Order		4	1
+03c49a93de46a59389b2ed504f9f8047	Arthropoda	Insecta	Hymenoptera				88.217	public	1	Order		4	1
+6f49852f57bf7ae806e7f09e7d8227f3	Arthropoda	Insecta	Hymenoptera				86.25	public	1	Order		2--4	1
+ce9fe15761bd8bf13ce3a6c2573f665e	Arthropoda	Insecta	Hemiptera	Miridae			92.453	public	2	Family		1	1
+5c683eeb63690ff57c175c8cc2ef8930	Arthropoda	Insecta	Lepidoptera				85.047	public	1	Order		1--4	1
+104aae68f846d83b018d8eada8c1b067	Arthropoda	Collembola	Entomobryomorpha	Isotomidae	Parisotoma	Parisotoma notabilis	100.0	public	31	Species	BOLD:AAA4157		1
+8253f62d3348d39a5eba45da943059ab	Arthropoda	Insecta	Hemiptera				85.804	public	2	Order		1--2	1
+b26c4559561f57634ca2ff3fab5a2077	Arthropoda	Insecta	Lepidoptera				85.174	public	1	Order		1--4	1
+2d1a29cf35be1f86cafe6ef3a45e2a69	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+f4d10ba61ed0f335b6aae5b60c84a684	Arthropoda	Insecta	Lepidoptera				85.893	public	1	Order		1--4	1
+3558641f6541e1a7383d0c33614a4ce5	Arthropoda	Insecta	Hymenoptera				86.139	public	1	Order		2--4	1
+dc5612d1371232285f73a218de2af5d0	Arthropoda	Insecta	Hymenoptera				87.421	public	1	Order		4	1
+b9109c9e0dc47be2c1aad1c7556756e5	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+ba9696b0b94f1189d0cca4ab1addc81e	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+cbf146d58566c1eb0d6b9f6dffd4ec60	Arthropoda	Insecta	Lepidoptera				85.938	public	1	Order		1--4	1
+db7bc4708f62a085c9fb53be0e44564a	Arthropoda	Insecta	Hemiptera				85.304	public	2	Order		1--2	1
+7b2fa28075dcee3f1568fc8db40fd02b	Arthropoda	Insecta	Lepidoptera				85.266	public	1	Order		1--4	1
+5996078cb95ab361f09b555eb6987bca	Arthropoda	Insecta	Lepidoptera				86.025	public	2	Order		1--2	1
+e5c4dd821c80c7a84afbe35dcfe16585	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		96.094	public	1	Genus		1--4	1
+984d1b9f5b66bccc349ca641f3434b74	Arthropoda	Insecta	Coleoptera				88.162	public	2	Order		2	1
+99c662ee02f65db48e8d4ee073617eb1	Arthropoda	Insecta	Hymenoptera				86.562	public	1	Order		2--4	1
+a2f74c5fb6dd37dd86b9f77913a6121c	Arthropoda	Arachnida	Sarcoptiformes	Oppiidae	Ramusella	Ramusella insculpta	100.0	public	2	Species	BOLD:AFB0279		1
+e2102b43ff3591b5821e82cb5a9745f4	Arthropoda	Copepoda	Calanoida				85.762	public	1	Order		2--4	1
+915f153a40663aed1f4314bcd866cce7	Arthropoda	Insecta	Hemiptera				85.22	public	2	Order		1	1
+5edccf65823b80a78d4148d77ef62c5b	Arthropoda	Diplura	Rhabdura	Campodeidae	Campodea	Campodea fragilis	98.462	public	2	Species	BOLD:ADC6342		1
+7bd3286bf9cf033bb43c40a4deb1ea0f	Arthropoda	Insecta	Lepidoptera				86.711	public	1	Order		1--4	1
+b2e2f8122be2a13264ac751ac2fe3ce8	Arthropoda	Insecta	Lepidoptera				89.969	public	1	Order		1--4	1
+63ceaf7bd24a8efb84a6826e64169241	Arthropoda	Insecta	Lepidoptera				85.893	public	1	Order		1--2--4	1
+054df50401432c05fa65c89e0f61f6ae	Arthropoda	Insecta	Hymenoptera				86.25	public	1	Order		2--4	1
+62aa31c01bab86d1ecfd272c4b9dbbbf	Arthropoda	Insecta	Hemiptera	Miridae			93.082	public	2	Family		1	1
+ebd9382f97128ed1e418d7efb6ff43cd	Arthropoda	Insecta	Lepidoptera				85.804	public	1	Order		1--4	1
+b5bbab7044458f11473bf8c97efa85a5	Arthropoda	Insecta	Hymenoptera				85.893	public	1	Order		4	1
+2a18e43497afb8fa52697bb061fa75a8	Arthropoda	Insecta	Hemiptera				86.207	public	2	Order		1--2	1
+06b6eb6e10215c532b41877c5fe2afa5	Arthropoda	Insecta	Lepidoptera				85.526	public	1	Order		1--4	1
+df303be0f75d38198808eef306d39744	Arthropoda	Insecta	Hemiptera				85.256	public	2	Order		1--2	1
+c484bda790c0e4640dc72e23b81527dc	Arthropoda	Collembola	Poduromorpha	Tullbergiidae			92.476	public	5	Family			1
+f3566a5fb340c3e9329f74c0e9c62a30	Arthropoda	Insecta	Lepidoptera				85.294	public	1	Order		1--2--4	1
+61fdcf9ccfd36524ae3573f2c3fa643f	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+66e64ea7d6af4b47e044d1caa4f140ef	Arthropoda	Insecta	Lepidoptera				85.0	public	1	Order		1--4	1
+7c7044c523b2933e8e2ee2512998f037	Arthropoda	Insecta	Lepidoptera				87.812	public	1	Order		1--4	1
+08e3519e343542557c90095cc70033d6	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		97.619	public	1	Genus		1--4	1
+53effeb829fc4c839bba87776e532eb5	Arthropoda	Insecta	Hymenoptera				85.987	public	1	Order		4	1
+e0d26057cd17a9ca19cfda5397dd0194	Arthropoda	Insecta	Lepidoptera				87.821	public	1	Order		1--4	1
+72de0aa9fa39748f6355309864e35368	Arthropoda	Insecta	Coleoptera				88.125	public	2	Order		2	1
+4cde5118c05c6790f213c6492a0fddcd	Arthropoda	Chilopoda	Lithobiomorpha	Lithobiidae	Lithobius	Lithobius crassipes	98.252	public	1	Species	BOLD:AEH4065	4	1
+40c40f112a74eb5aea9ad4d1feb6f425	Arthropoda	Insecta	Hymenoptera				86.52	public	1	Order		2--4	1
+faa3409bb51827bd777d9e2a181dfa82	Arthropoda	Chilopoda	Geophilomorpha				86.769	public	9	Order			1
+c88c60e8c43eeef3871749420de609c4	Arthropoda	Collembola	Symphypleona	Katiannidae	Sminthurinus	Sminthurinus aureus	99.057	public	10	Species	BOLD:AEL6752;BOLD:AEN5991;BOLD:ACF6317;BOLD:AAB5299;BOLD:ACE3690;BOLD:ABY6147;BOLD:ADH7841	2--5	1
+a23fcffc22b303cb71b3579927f4da58	Arthropoda	Insecta	Hymenoptera				85.58	public	1	Order		4	1
+5e3982881156b4841484f0c50ca71674	Arthropoda	Insecta	Lepidoptera				85.526	public	1	Order		1--4	1
+a5b1b0b9f685ba67ecdee8a50768a9ed	Arthropoda	Insecta	Lepidoptera				88.782	public	1	Order		1--2--4	1
+50115e1962e031bc326014f89158a78c	Arthropoda	Arachnida	Sarcoptiformes	Euphthiracaridae	Acrotritia	Acrotritia ardua	98.428	public	1	Species	BOLD:AAF9157		1
+d9e583b6041ce5aec9873af72bdaebaa	Arthropoda	Insecta	Lepidoptera				85.149	public	1	Order		1--4	1
+a4161199463ae33fe05766b0d303653f	Arthropoda	Insecta	Lepidoptera				87.188	public	1	Order		1--4	1
+f4ab5164a9be687dd28b8880c44b0f92	Arthropoda	Insecta	Hemiptera	Miridae			91.195	public	2	Family		1	1
+39823239b4b6aafdaec16879441af806	Arthropoda	Insecta	Lepidoptera				85.047	public	1	Order		1--4	1
+cfd1d5bdee025a5c619356fa3448782a	Arthropoda	Insecta	Hymenoptera				85.266	public	1	Order		4	1
+0851c904a2c475205320e3dd74bfa3f6	Arthropoda	Insecta	Lepidoptera				87.227	public	1	Order		1--4	1
+13cd0045a10842754077834584d15535	Arthropoda	Insecta	Lepidoptera				86.068	public	2	Order		1--2	1
+d727242ea31ab4978180b400be2efea3	Arthropoda	Collembola	Entomobryomorpha				86.885	public	93	Order		2	1
+ab861345bf2a3d5cd35ed66764cffb62	Arthropoda	Insecta	Lepidoptera				86.875	public	1	Order		1--4	1
+adf983d35edd25f85add01cab4cf730e	Arthropoda	Insecta	Hymenoptera				85.938	public	1	Order		4	1
+e64a09c06914e636ade954676b97738d	Arthropoda	Insecta	Coleoptera	Cantharidae			91.9	public	2	Family			1
+de9ee695465b199263780168d385e7a0	Arthropoda	Insecta	Lepidoptera				86.52	public	1	Order		1--4	1
+bfeb499d6d68fc726a97028482f856cc	Arthropoda	Insecta	Hemiptera				85.577	public	2	Order		1--2	1
+88e6cc3e3d5865b92d25b22a6cc31e69	Arthropoda	Insecta	Lepidoptera				88.141	public	1	Order		1--4	1
+6a95f799175a498cd2804d2aa105a92f	Arthropoda	Copepoda	Calanoida				86.957	public	1	Order		4	1
+52de7080b366a79978dfcd1fc97f2f27	Arthropoda	Insecta	Lepidoptera				88.715	public	1	Order		1--4	1
+72d174710bedbfacb313f2491fd03843	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+4329bcfc0fb67f05217205ed2d5f242c	Arthropoda	Insecta	Hymenoptera				86.392	public	1	Order		4	1
+b7184fb33673418a238fc3e0535ae55c	Arthropoda	Insecta	Lepidoptera				88.782	public	1	Order		1--2--4	1
+0abeca0af65a6134579464abf3ac2044	Arthropoda	Insecta	Lepidoptera				86.604	public	1	Order		1--4	1
+0917c9a275bd26763400fac8e7bc930d	Arthropoda	Insecta	Lepidoptera				85.574	public	2	Order		1--2	1
+753a2c8fbcb7ebcefe44d81a98cf621f	Arthropoda	Insecta	Hemiptera				85.577	public	2	Order		1--2	1
+13caefcca624bef29782b6d9803e3d3f	Arthropoda	Insecta	Lepidoptera				87.147	public	1	Order		1--4	1
+249dae7af52c0a37f869f1814db229d3	Arthropoda	Insecta	Hemiptera	Miridae			90.881	public	2	Family		1	1
+0c5122a1ff4d56675353a79d29b038e2	Arthropoda	Insecta	Hymenoptera				85.312	public	1	Order		4	1
+8702808833b436c19e6b56d68bfbeeba	Arthropoda	Insecta	Lepidoptera				85.0	public	1	Order		1--4	1
+e8d3c52fb646db70890e055ed8c06b06	Arthropoda	Insecta	Lepidoptera				88.438	public	1	Order		1--4	1
+e82ffd7f74888ebdfdbb3ec3834ed386	Arthropoda	Copepoda	Calanoida				89.073	public	1	Order		4	1
+70af5633dcbe0caeddc845b5f84ab028	Arthropoda	Arachnida	Mesostigmata	Veigaiidae	Veigaia		100.0	public	5	Genus			1
+3166af523866f521d9d12bd9d461aabd	Arthropoda	Insecta	Hymenoptera				85.625	public	1	Order		4	1
+68de8b9eed74760cae8576949a261b3a	Arthropoda	Insecta	Hymenoptera				88.088	public	1	Order		2--4	1
+84063d5f8963b8f00fe4d788e3887210	Arthropoda	Insecta	Lepidoptera				86.538	public	1	Order		1--4	1
+1361455dbf587fbe35a53b8069e1c468	Arthropoda	Insecta	Lepidoptera				86.538	public	1	Order		1--4	1
+50c027c75e2f1d3628a66d1408642bfa	Arthropoda	Insecta	Hymenoptera				87.188	public	1	Order		2--4	1
+87998dc5f49bd301c6af220123edaac4	Arthropoda	Collembola	Poduromorpha	Tullbergiidae	Mesaphorura	Mesaphorura hylophila	98.433	public	1	Species	BOLD:AAE7649	4	1
+6600e59678babcf18dc83eaab88eadae	Arthropoda	Insecta	Lepidoptera				85.938	public	1	Order		1--4	1
+8d846b164d3f4ebded18df74f5affba7	Arthropoda	Insecta	Hymenoptera				85.668	public	1	Order		4	1
+e89392b506bb6b11011e416c64c5240b	Arthropoda	Collembola	Entomobryomorpha	Isotomidae	Folsomia	Folsomia candida	100.0	public	34	Species	BOLD:AAB6463		1
+5d2c726061a510e34e53f40c8228c0b8	Arthropoda	Arachnida	Mesostigmata	Trematuridae	Nenteria		100.0	public	8	Genus			1
+d53dc860eb1aa6b15415b3fe804ea8b3	Arthropoda	Insecta	Hymenoptera				87.5	public	1	Order		2--4	1
+9c1ac4e2b9e1a800a7dcaa2e560aba62	Arthropoda	Insecta	Lepidoptera				85.174	public	1	Order		1--4	1
+155a3b39f6577df3419b91fd3a55a956	Arthropoda	Insecta	Hemiptera				85.209	public	2	Order		1--2	1
+9e5704880c9d6303ad4022539f51d190	Arthropoda	Insecta	Hemiptera				85.174	public	2	Order		1--2	1
+80f4664084fed9f5e878f9582aced18b	Arthropoda	Insecta	Hemiptera				85.304	public	2	Order		1--2	1
+72f39370eaf01d8daa5791ed21c28ef1	Arthropoda	Collembola	Symphypleona	Katiannidae	Sminthurinus		98.333	public	10	Genus			1
+bb0c583bf63367d1c3268ea5d4d1533d	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+cc8c366071b6579239994f3ccc3018a1	Arthropoda	Insecta	Lepidoptera	Gracillariidae			92.812	public	1	Family		1--4	1
+ccb2dfdf71db633a511fe4091baf0b13	Arthropoda	Insecta	Hemiptera				86.751	public	2	Order		1--2	1
+24d3047cd3f89338ab5c23c1d4cf2582	Arthropoda	Insecta	Hymenoptera				87.421	public	1	Order		4	1
+95f833f278905697b2142aa3168ff384	Arthropoda	Insecta	Lepidoptera				88.462	public	1	Order		1--4	1
+3552383e470b6d1051d8d16dcdd2501d	Arthropoda	Insecta	Lepidoptera				85.849	public	1	Order		1--4	1
+a64ace2fbc7895bc4eb8ba20c4679150	Arthropoda	Collembola	Symphypleona	Katiannidae	Sminthurinus	Sminthurinus aureus	99.054	public	10	Species	BOLD:AEL6752;BOLD:AEN5991;BOLD:ACF6317;BOLD:AAB5299;BOLD:ACE3690;BOLD:ABY6147;BOLD:ADH7841	2--5	1
+0b74c335a52b4bce8e51f6329d67ac87	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+cf493933fe8548b1c4772eff6a8a7546	Arthropoda	Insecta	Hemiptera				86.885	public	2	Order		1--2	1
+41209896036c20c74c46cd9c1492b60c	Arthropoda	Chilopoda	Lithobiomorpha	Lithobiidae	Lithobius	Lithobius crassipes	98.252	public	1	Species	BOLD:AEH4065	4	1
+5b8313adc183298cad42152914e41a2c	Arthropoda	Insecta	Hemiptera				86.792	public	2	Order		1--2	1
+2aba4169f782a59108c0d0ad4576433c	Arthropoda	Insecta	Hymenoptera				86.52	public	1	Order		4	1
+61421acb00eeecd34727b5d59bd4b5d7	Arthropoda	Insecta	Lepidoptera				87.812	public	1	Order		1--4	1
+12e8bd57e39a3d66cab1afdf4487a813	Arthropoda	Insecta	Coleoptera				85.714	public	2	Order		2	1
+e0c44228864de812a5d3cc12a429ab4c	Arthropoda	Insecta	Lepidoptera				85.0	public	1	Order		1--4	1
+af49694a25aacef722a67e6428a99a05	Arthropoda	Insecta	Hymenoptera				88.217	public	1	Order		4	1
+a34640105799b6d92b02b77aeb17bc4a	Arthropoda	Insecta	Hemiptera				85.623	public	2	Order		1--2	1
+2123d979e63088e8dcdf6fdfeab5de80	Arthropoda	Insecta	Hymenoptera				87.107	public	1	Order		4	1
+1ea5351397353208b4a35e7ae0c69a46	Arthropoda	Insecta	Hemiptera	Miridae			91.167	public	2	Family		1	1
+662e6bb69058341af9f74df8b83a6a47	Arthropoda	Insecta	Hymenoptera				85.981	public	1	Order		2--4	1
+aebd186edf167abd809cf51f7f0bc37d	Arthropoda	Insecta	Coleoptera				87.0	public	2	Order		2	1
+fa09ca6f55e3118288aa5a0e67ab1063	Arthropoda	Insecta	Lepidoptera				87.147	public	1	Order		1--4	1
+19c210966a69aa865f87c32075929fd7	Arthropoda	Insecta	Hemiptera				85.304	public	2	Order		1--2	1
+2f4602c3534e408ffe5fa1eca893577b	Arthropoda	Insecta	Hymenoptera				86.834	public	1	Order		4	1
+fae9837267183e9d687d2ddeefd40807	Arthropoda	Insecta	Hymenoptera				88.179	public	1	Order		4	1
+36f3e4901abb4c9f01d62791579b0185	Arthropoda	Arachnida	Sarcoptiformes	Oppiidae			98.951	public	8	Family		1	1
+15b29a777e24f914f83177abe2640a86	Arthropoda	Insecta	Lepidoptera				85.312	public	1	Order		1--4	1
+9b5de3e29d1aedff3845c97c77d23bdf	Arthropoda	Insecta	Lepidoptera				87.774	public	1	Order		1--4	1
+3eb4c6f24b4b0ebcafe3c4d5a77f5242	Arthropoda	Insecta	Hymenoptera				85.938	public	1	Order		4	1
+92d63c14d4d4de7f3b8bb84d58f6a59b	Arthropoda	Insecta	Lepidoptera				86.207	public	1	Order		1--4	1
+1a37a44dda758c64b99ff9f44cee2a05	Arthropoda	Insecta	Lepidoptera				86.875	public	1	Order		1--4	1
+542a059abcc8b8710b8eac0613a2d33e	Arthropoda	Insecta	Hymenoptera				87.461	public	1	Order		4	1
+0f36760af33b150c294289008ec9f6c5	Arthropoda	Insecta	Hymenoptera				85.312	public	1	Order		2--4	1
+65697f7a091e5bc6ad3f22e7d3fffab4	Arthropoda	Insecta	Lepidoptera				86.293	public	1	Order		1--4	1
+239ceb0a8d32da0f80399773499b0030	Arthropoda	Insecta	Hymenoptera				85.625	public	1	Order		4	1
+ea3f0017ba1fa73e578a711a89a7c08e	Arthropoda	Insecta	Lepidoptera	Gracillariidae			90.654	public	1	Family		1--4	1
+c1eb3e8c344f452ae9e2e01f91e4061d	Arthropoda	Insecta	Lepidoptera				86.262	public	1	Order		1--4	1
+7cb2e98cf3dd922e62d9d8a57dafae20	Arthropoda	Insecta	Hymenoptera				88.75	public	1	Order		2--4	1
+49bd8e42d0d0ef902197ce695e0bd147	Arthropoda	Insecta	Coleoptera				89.776	public	3	Order		2	1
+b39ab82291d746fa53ec0ca3da2fa22c	Arthropoda	Arachnida	Sarcoptiformes	Oppiidae	Ramusella	Ramusella insculpta	100.0	public	2	Species	BOLD:AFB0279		1
+6d93b9b06f323e4a22ee8f20ca6e8876	Arthropoda	Insecta	Hymenoptera	Diapriidae			90.282	public	1	Family		4	1
+9646a808fb5f4a3abbcc8a7afc529e99	Arthropoda	Insecta	Hemiptera				85.577	public	2	Order		1--2	1
+9d601d5093a742dc5466042ad94fca8a	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		96.875	public	1	Genus		1--4	1
+77beb59645f1fe0079487c6022bead45	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		96.875	public	1	Genus		1--4	1
+a2e14a0225754ae210994ffa3bdd2f19	Arthropoda	Diplopoda	Julida	Julidae			94.212	public	2	Family			1
+c7c114a6343768fdac60115c3a97842a	Arthropoda	Copepoda	Calanoida				85.397	public	1	Order		4	1
+ab8e683f02827d5b96485a1597d5af08	Arthropoda	Insecta	Lepidoptera				85.67	public	1	Order		1--4	1
+981aeda76e421694aefbf7ab68c020d1	Arthropoda	Insecta	Coleoptera				89.062	public	3	Order		2	1
+7bc0bda1170c188e64ea98811e152eb1	Arthropoda	Insecta	Hymenoptera				86.349	public	1	Order		4	1
+53a284e20a32eb3c02bed0559d4d566d	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		98.333	public	1	Genus		1--4	1
+cfebf80ee41057f172f2165be570669c	Arthropoda	Insecta	Lepidoptera				85.484	public	1	Order		1--4	1
+89021c4a35c6050f6bca06f26946ccdf	Arthropoda	Insecta	Hymenoptera				85.668	public	1	Order		4	1
+212449935ed685895299c1a0caabaa19	Arthropoda	Insecta	Hymenoptera				86.834	public	1	Order		4	1
+59b553e2bf7f61d3bbd3533a61b44c2f	Arthropoda	Insecta	Hemiptera				85.535	public	2	Order		1--2	1
+2217631c8d3730786591f302b06f647b	Arthropoda	Insecta	Lepidoptera				85.256	public	1	Order		1--4	1
+2774a5ffc15f83a1783276d4c0014bc6	Arthropoda	Insecta	Lepidoptera	Gracillariidae	Acrocercops		100.0	public	1	Genus		1--2--4	1
+a7847fbcfc69d3860eab1f1e877aa4c0	Arthropoda	Insecta	Hemiptera				85.849	public	2	Order		1--2	1
+e9bcc7997c98ea7f3bad295e9d7d5587	Arthropoda	Insecta	Lepidoptera				88.782	public	1	Order		1--4	1
+4adc22c5ca2b5a3edac9f69e43242f41	Arthropoda	Insecta	Hemiptera				85.535	public	2	Order		1	1
+34d822391cac0a9bb075142fbde7b353	Arthropoda	Insecta	Coleoptera				88.162	public	2	Order		2	1
+4495281d6486cea0c4410dc58412dd5a	Arthropoda	Insecta	Hemiptera				85.535	public	2	Order		1--2	1
+32c736fabba2a268d4a5d525846c82a9	Arthropoda	Insecta	Lepidoptera				89.062	public	1	Order		1--4	1
+55eff7cbb7608291fea7b74d5e704575	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		97.656	public	1	Genus		1--4	1
+0fd9587859d4446bab6f0a5da01a8b54	Arthropoda	Insecta	Lepidoptera				85.0	public	1	Order		1--4	1
+f9000556c39cfd5c4cecdc9b14b5e5b4	Arthropoda	Insecta	Hymenoptera				85.266	public	1	Order		4	1
+87fe2e7257ff5550e7de0fe9c0f4603b	Arthropoda	Insecta	Lepidoptera				88.462	public	1	Order		1--4	1
+dbc142421441c2fb5d424a4b824ba196	Arthropoda	Arachnida	Sarcoptiformes	Oppiidae			98.955	public	8	Family		1	1
+d1081f2041e61724310450bc5b374f64	Arthropoda	Copepoda	Calanoida				86.916	public	1	Order		4	1
+a2b33b2f529505ae838b3a1af3835db8	Arthropoda	Insecta	Hymenoptera				87.5	public	1	Order		4	1
+0eaffc5ac502b0350ac3a9bb52799b5b	Arthropoda	Insecta	Diptera	Chironomidae			100.0	public	100	Family		1	1
+6e26ad06fbadfdde696d5114cae7daf5	Arthropoda	Collembola	Poduromorpha	Hypogastruridae	Ceratophysella		97.484	public	1	Genus		4	1
+e22bc4a5fe312be517770dbe6e1bf7c7	Arthropoda	Insecta	Lepidoptera				88.125	public	2	Order		1	1
+d70e993019be456cf2f440eccd55a5af	Arthropoda	Insecta	Hemiptera				85.574	public	2	Order		1--2	1
+5df4e4cdc1831178123a4f58a6a5798e	Arthropoda	Insecta	Hymenoptera				86.834	public	1	Order		2--4	1
+5f0ac0e9518528d1143b4c62ded4172a	Arthropoda	Insecta	Hymenoptera				85.266	public	1	Order		4	1
+e7e070c913062933dd50944e42b6172b	Arthropoda	Insecta	Hymenoptera				85.256	public	1	Order		4	1
+b6bb63816b0ee4c779c18f528fba73de	Arthropoda	Insecta	Hymenoptera				85.938	public	1	Order		2--4	1
+a6670b057fbf85834e1c85d4c02484b4	Arthropoda	Insecta	Lepidoptera				86.834	public	1	Order		1--4	1
+075cfc550600d006b13c4c3525a96b96	Arthropoda	Insecta	Hymenoptera				86.207	public	1	Order		4	1
+2e324a83dafa0d12f9666288d6462ffe	Arthropoda	Insecta	Hemiptera				85.209	public	2	Order		1--2	1
+5392c10b5fb4d29cb5430bed522b2681	Arthropoda	Insecta	Hemiptera	Miridae	Phytocoris		95.899	public	2	Genus		1	1
+a774bb86af381a14e301ab8341cbff16	Arthropoda	Insecta	Lepidoptera				85.938	public	1	Order		1--2--4	1
+14702a8f7d81d02e89fb48bd207a1a65	Arthropoda	Insecta	Hymenoptera				85.623	public	1	Order		4	1
+34d2add478062244818859dd8398c68f	Arthropoda	Insecta	Lepidoptera				85.58	public	1	Order		1--4	1
+e8fb97959f06ff01293b72308ed6bd55	Arthropoda	Insecta	Hymenoptera				86.25	public	1	Order		4	1
+037ee939be39cd68732a123540acf9d8	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		96.875	public	1	Genus		1--4	1
+ab368550579b4ffdd43e8935d5b751ac	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Psylliodes	Psylliodes chrysocephalus	100.0	public	39	Species	BOLD:AFN9050;BOLD:ABA4454;BOLD:AEL5435;BOLD:AAO4430	5	1
+b945506e4e405ff8600082ab81d06ac0	Arthropoda	Insecta	Hymenoptera				86.859	public	1	Order		4	1
+2b88539a937f95965273f0f1f02d8584	Arthropoda	Insecta	Lepidoptera				86.859	public	1	Order		1--2--4	1
+058c77d1519fbc7913d382069fa171c1	Arthropoda	Insecta	Lepidoptera				87.5	public	1	Order		1--4	1
+b99cdcabeb2a2ebfed900b71df2ba08c	Arthropoda	Insecta	Lepidoptera				85.574	public	2	Order		1--2	1
+0b3ee488b4777437ead1f887852e7808	Arthropoda	Insecta	Hemiptera	Aphididae	Forda	Forda marginata	100.0	public	7	Species	BOLD:AAY3656	2	1
+7ed870050fd13a4563e6c027f4a8a0df	Arthropoda	Insecta	Lepidoptera				85.256	public	1	Order		1--4	1
+3b47fadbc58e185dc2cada67f41d5076	Arthropoda	Diplopoda	Julida	Julidae	Brachyiulus		95.312	public	1	Genus			1
+cd18787de60a7120db0d1ac50881da88	Arthropoda	Insecta	Hymenoptera				85.312	public	1	Order		4	1
+a0ac87dccb3d472f9c62a3723c275c67	Arthropoda	Collembola	Poduromorpha	Tullbergiidae	Metaphorura	Metaphorura affinis	100.0	public	1	Species	BOLD:AAE8273	4	1
+1c7ba8f3ac28899972bacff961922b36	Arthropoda	Insecta	Lepidoptera				88.438	public	1	Order		1--4	1
+b914e4a9066fd41637e0a58db30d191b	Arthropoda	Insecta	Hemiptera				85.531	public	2	Order		1--2	1
+f7358abadac6b57e9c8b9e533fc84bb1	Arthropoda	Arachnida	Sarcoptiformes	Oppiidae	Ramusella	Ramusella insculpta	99.686	public	2	Species	BOLD:AFB0279		1
+1384885f80065afde3ee6ac5dc5b74c5	Arthropoda	Insecta	Hymenoptera				88.217	public	1	Order		2--4	1
+caf92a7bd878ff7e5c37e66e7970eea8	Arthropoda	Insecta	Hemiptera				85.22	public	2	Order		1--2	1
+57a6199719654cbc43d8e07a9b1e953a	Arthropoda	Insecta	Hymenoptera				86.562	public	1	Order		4	1
+a169f7db0a584d596f5a5a2f8b8895b4	Arthropoda	Insecta	Hymenoptera				86.25	public	1	Order		4	1
+99f7fa3b9016cef35c3cea58f9958f35	Arthropoda	Insecta	Hemiptera				85.902	public	2	Order		1--2	1
+2c09e5af46e382788354044ce234ddb1	Arthropoda	Insecta	Lepidoptera				85.484	public	1	Order		1--4	1
+df5ceb637a6d8519ca301d255d67f8d4	Arthropoda	Insecta	Hymenoptera				86.293	public	1	Order		2--4	1
+2cc760e7799169ae649017ea67ca5d7b	Arthropoda	Insecta	Hemiptera				85.489	public	2	Order		1	1
+1295d4345bc5dbd741c291e4fafa981f	Arthropoda	Insecta	Hymenoptera				85.668	public	1	Order		4	1
+ec55c7985993b17e11d2852aa21c19c1	Arthropoda	Insecta	Hymenoptera				88.438	public	1	Order		2--4	1
+b1f38807853d2841d29e10899e0a1270	Arthropoda	Insecta	Lepidoptera	Gracillariidae			90.343	public	1	Family		1--4	1
+2a746f3da50f8a193e46f1af07504356	Arthropoda	Insecta	Hymenoptera				87.821	public	1	Order		2--4	1
+8c2c6a385255c31fd7641ccd776ec773	Arthropoda	Collembola	Poduromorpha	Onychiuridae	Thalassaphorura	Thalassaphorura udhagaiensis	100.0	public	1	Species	BOLD:AAH3270	2--4	1
+7f52cf7f1f2e8b5d0467bc6d5c40bb44	Arthropoda	Copepoda	Calanoida				86.335	public	1	Order		4	1
+6e870a7f3f79fff5b6af78b1b7ba27c4	Arthropoda	Insecta	Coleoptera	Elateridae	Agriotes	Agriotes sputator	100.0	public	16	Species	BOLD:AAL5975;BOLD:ABZ8130	5	1
+aa17c04c625b1be12f9b0ee8c0d90336	Arthropoda	Insecta	Lepidoptera				89.028	public	1	Order		1--4	1
+0dbc94ed70d39b4e7526dc62045f7792	Arthropoda	Insecta	Hymenoptera				86.52	public	1	Order		2--4	1
+23fd7485e98593e52d347c00a9f248e1	Arthropoda	Insecta	Hymenoptera				86.799	public	1	Order		4	1
+c24fa8cdce28b87cb37276b2bd392973	Arthropoda	Insecta	Lepidoptera				88.424	public	1	Order		1--4	1
+fc52c8fbe5d2ad0fe8ed59f9dabfaa8f	Arthropoda	Insecta	Hemiptera				89.623	public	2	Order		1--2	1
+59ed45120188d5325467e267639722d1	Arthropoda	Insecta	Lepidoptera	Gracillariidae			90.966	public	1	Family		1--2--4	1
+cfe216bf0ea3a81634cb4efec255a735	Arthropoda	Insecta	Coleoptera				86.0	public	2	Order		2	1
+84efe155255193ce0ec1e8614a1f48ad	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		97.656	public	1	Genus		1--4	1
+17a87d18ba9cb1bf60a45a23cfe1b5aa	Arthropoda	Insecta	Lepidoptera				85.22	public	1	Order		1--4	1
+e584e89356d3c0f059a228242815af74	Arthropoda	Insecta	Lepidoptera				87.812	public	1	Order		1--4	1
+c4646f0eb63e63ce00bc8b4b2751c818	Arthropoda	Arachnida	Sarcoptiformes	Oppiidae			99.303	public	8	Family			1
+d08d7262de6989bee5e04f6d111108a9	Arthropoda	Insecta	Lepidoptera				86.23	public	2	Order		1--2	1
+480327cbda4efa54d840203fbdfa5964	Arthropoda	Arachnida	Sarcoptiformes	Acaridae	Rhizoglyphus	Rhizoglyphus robini	98.433	public	2	Species	BOLD:AAX8972;BOLD:ADR7938	5	1
+0b8212cc1dfd2a581f35a19dc899388e	Arthropoda	Insecta	Lepidoptera	Gracillariidae			92.523	public	1	Family		1--4	1
+234ae629f2a19f0f09c27bf80e92908c	Arthropoda	Insecta	Hymenoptera				85.623	public	1	Order		4	1
+2215fe930905a077867c22cfc94e5cc4	Arthropoda	Insecta	Hymenoptera				85.809	public	1	Order		4	1
+1c2b1ff3619ec7229485cfbabebce7ea	Arthropoda	Insecta	Coleoptera	Cantharidae			90.385	public	1	Family			1
+76f459aeb0b9ef2164e22bbe69042352	Arthropoda	Insecta	Hemiptera	Miridae	Phytocoris		100.0	public	2	Genus		1	1
+605d0782f90f847e53c3f8851594ad34	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		96.094	public	1	Genus		1--4	1
+77ac1e5a6d765d2b8fe5254d92286492	Arthropoda	Collembola	Symphypleona	Katiannidae	Sminthurinus		98.326	public	10	Genus			1
+01d71cb318f500a7e3fd6f3dde62ccbd	Arthropoda	Diplopoda	Julida				88.199	public	2	Order			1
+eea73dae24b3053a701889f52857dee6	Arthropoda	Insecta	Hymenoptera				85.623	public	1	Order		4	1
+892737934a985b4781e2777ac65bfde7	Arthropoda	Insecta	Hemiptera	Miridae	Phytocoris		96.541	public	2	Genus		1	1
+ca139dc97600e0ed2924b3849abf251b	Arthropoda	Insecta	Lepidoptera				85.312	public	1	Order		1--4	1
+230b4c4a6d95621c66359f1357dffa5d	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		97.656	public	1	Genus		1--4	1
+843c6e2573a70c3bd37859aae2ae5a1f	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		97.656	public	1	Genus		1--4	1
+fb5c2c2a0dc957d98b1a10395d019f71	Arthropoda	Collembola	Entomobryomorpha				85.479	public	1	Order		1--4	1
+f5ba0bf428588fa039822ed7b98aefca	Arthropoda	Insecta	Lepidoptera				86.25	public	1	Order		1--4	1
+e4971f9f2ed86ad6119e01f448974d5a	Arthropoda	Insecta	Lepidoptera				88.462	public	1	Order		1--4	1
+91d0252c8580594b93979a1c8df71978	Arthropoda	Insecta	Hymenoptera				85.668	public	1	Order		2--4	1
+001d8f1ec8d4b9cf349435b006066eb0	Arthropoda	Insecta	Lepidoptera				85.897	public	1	Order		1--2--4	1
+4b79a78522e62f0072336ff0d8a84a7a	Arthropoda	Insecta	Lepidoptera				86.859	public	1	Order		1--2--4	1
+c56d350b90a0ed8f61de02be486bff04	Arthropoda	Insecta	Lepidoptera				88.125	public	2	Order		1	1
+3c66e27d81c9436ec04fe528cbdbd063	Arthropoda	Insecta	Lepidoptera				86.25	public	1	Order		1--4	1
+0428dd09262bd394a9b1e06f8ba6ece2	Arthropoda	Insecta	Hemiptera				86.164	public	2	Order		1--2	1
+f1468f68c673bd63f25018155a96771b	Arthropoda	Insecta	Lepidoptera				85.256	public	1	Order		1--4	1
+233d04b26126266fc4b125c82e91bf74	Arthropoda	Insecta	Coleoptera	Cantharidae			90.966	public	1	Family		2	1
+044e91ea7598edd32fe3a34be9f6b313	Arthropoda	Insecta	Hemiptera				87.421	public	2	Order		1--2	1
+523e1cba7ac1b17a9c1de3a918b82bb0	Arthropoda	Insecta	Hymenoptera				86.875	public	1	Order		2--4	1
+e771cf46dce1f3c779393395d0ec215a	Arthropoda	Insecta	Hymenoptera				89.028	public	1	Order		2--4	1
+88779006cdc1bdaa7b4aa17ba9e3ea6b	Arthropoda	Insecta	Lepidoptera				85.256	public	1	Order		1--4	1
+21f305d547d493aa4be8f31efa663e15	Arthropoda	Insecta	Hymenoptera				85.304	public	1	Order		4	1
+a316db87720e891e09f9f4b779157e9a	Arthropoda	Copepoda	Calanoida				85.762	public	1	Order		4	1
+b0137057ef458e3fcfc0bbffb532821d	Arthropoda	Insecta	Coleoptera				88.125	public	2	Order		2	1
+c94adf6adae126b84d4bdc823fd2c187	Arthropoda	Insecta	Hymenoptera				85.58	public	1	Order		4	1
+a5c729a453840ade4a566ce8db2a299e	Arthropoda	Insecta	Hymenoptera				88.088	public	1	Order		2--4	1
+1e8e8fb4389050ea6a20d92bd3110386	Arthropoda	Insecta	Hemiptera				85.577	public	2	Order		1--2	1
+9e9f5f81bda66d8307deeeb555e4afa7	Arthropoda	Insecta	Diptera				85.479	public	4	Order			1
+22411338ac57d16574a7303fbd945189	Arthropoda	Insecta	Lepidoptera				85.479	public	1	Order		1--2--4	1
+fb31d853c02f210e82a8e69611402ce7	Arthropoda	Insecta	Lepidoptera	Gracillariidae			90.343	public	1	Family		1--4	1
+aabe1746767d50d83ab97f1713c360d7	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		97.656	public	1	Genus		1--4	1
+a632cd873fae720c75e8de962de163fc	Arthropoda	Insecta	Lepidoptera				85.526	public	1	Order		1--4	1
+3c8217dca9891eea809c4c8c89cadfdc	Arthropoda	Arachnida	Sarcoptiformes				88.679	public	88	Order			1
+9a8fa9f6f2374e1a99fbe5ac41112c5d	Arthropoda	Collembola	Entomobryomorpha	Lepidocyrtidae	Lepidocyrtus		100.0	public	14	Genus			1
+562aa21ab639015b1d0ce396c30e11ec	Arthropoda	Insecta	Lepidoptera				86.562	public	1	Order		1--4	1
+b2025a0f2bf43eb0e4eb29dfb1909333	Arthropoda	Insecta	Hemiptera				85.174	public	2	Order		1--2	1
+41c59a0f64442e2b692ad06e736f5192	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		97.656	public	1	Genus		1--4	1
+673508c05670d2cfcc291b5160d48b46	Arthropoda	Insecta	Hymenoptera				85.047	public	1	Order		2--4	1
+cb1a212cd562ceca008c0655a2b51021	Arthropoda	Insecta	Coleoptera	Cantharidae			91.077	public	2	Family			1
+c86e91f987d7ca206167a76d07697a4e	Arthropoda	Copepoda	Calanoida				86.997	public	1	Order		4	1
+96dbfe9b32c3fe647df0a81fd8804ee6	Arthropoda	Copepoda	Calanoida				86.378	public	1	Order		2--4	1
+b2eb8dd13094535191fafb5a2cf62f77	Arthropoda	Insecta	Lepidoptera	Gracillariidae			90.343	public	1	Family		1--4	1
+4e0d55920d762c2bcf4b1431020b913f	Arthropoda	Insecta	Lepidoptera				89.744	public	1	Order		1--4	1
+51a38637608bc386004c6e57e1644ddc	Arthropoda	Insecta	Lepidoptera				85.032	public	1	Order		1--4	1
+0d4d08c8f5e4d2425abf4dc565f02fa6	Arthropoda	Insecta	Hemiptera				86.751	public	2	Order		1--2	1
+94a73626e933fffb4f2cbdcecff5b38c	Arthropoda	Insecta	Lepidoptera	Gracillariidae			90.385	public	1	Family		1--4	1
+4a10241edd69f64e107898f59f2a9d23	Arthropoda	Insecta	Hemiptera				85.174	public	2	Order		1--2	1
+2571c7ffd279c480b2712d6b9cfc127e	Arthropoda	Insecta	Lepidoptera				87.774	public	1	Order		1--4	1
+fcf1354ad533591cabc8ee2e4ec47ca5	Arthropoda	Insecta	Hemiptera				85.535	public	2	Order		1--2	1
+6c1c715b7190965d19cbe353ac6a93bd	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		97.619	public	1	Genus		1--4	1
+afd355af76d65afca4d02694989a7d0f	Arthropoda	Insecta	Lepidoptera				85.304	public	1	Order		1--4	1
+6521c60182ca5e138f1ff09667fde91e	Arthropoda	Insecta	Lepidoptera				87.147	public	1	Order		1--4	1
+e236e4091d6009e5a07402a3a3121cd7	Arthropoda	Collembola	Symphypleona				91.798	public	6	Order		2	1
+db1f3c23b856e126446bfc8bb2589576	Arthropoda	Arachnida	Trombidiformes	Pygmephoridae			98.746	public	11	Family			1
+38bdba00cfa6b8220d7f76e1946d632d	Arthropoda	Insecta	Lepidoptera				86.25	public	1	Order		1--4	1
+432a8d3534db323e5910dc18e3fee06e	Arthropoda	Insecta	Hymenoptera				85.047	public	1	Order		2--4	1
+4b03b82f2a8e067bc5bed26c10e87510	Arthropoda	Insecta	Lepidoptera				86.875	public	1	Order		1--2--4	1
+3f5720938a171e9efbf9b7af704976f4	Arthropoda	Insecta	Lepidoptera				85.256	public	1	Order		1--4	1
+76a3e088cd1a44941f8bdb5000ae7ff3	Arthropoda	Insecta	Hymenoptera				86.469	public	1	Order		4	1
+a5db4669bd6587f36df25a994558668d	Arthropoda	Insecta	Lepidoptera				87.616	public	1	Order		1--4	1
+51086f708b392e207d78ad21f7bfbcdc	Arthropoda	Insecta	Lepidoptera				85.358	public	1	Order		1--4	1
+6944fd208149b137ed80736f75a7a277	Arthropoda	Insecta	Lepidoptera				85.197	public	1	Order		1--4	1
+25f638e12810a3f244a29c3d8b0a5fb5	Arthropoda	Insecta	Hymenoptera				85.312	public	1	Order		4	1
+7afb321fa83d75afd104a481cf5f2084	Arthropoda	Insecta	Lepidoptera				85.809	public	1	Order		1--4	1
+f4ed8ebbca4b22d34d9501bb6052b29b	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		98.438	public	1	Genus		1--4	1
+da438bb70c79da68e77d2098cd086e2d	Arthropoda	Insecta	Coleoptera	Cantharidae			90.625	public	1	Family		2	1
+859a126cd069d9300ca6c201d5c4b0d1	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		96.875	public	1	Genus		1--4	1
+7479789d9fb6c3415016fae840756af7	Arthropoda	Insecta	Lepidoptera				85.093	public	1	Order		1--4	1
+d54143fed111c92334ee3db72aa5aeb2	Arthropoda	Insecta	Lepidoptera				85.893	public	1	Order		1--4	1
+fcf0321625c9a5e436afed890addca7f	Arthropoda	Insecta	Coleoptera				88.438	public	3	Order		2	1
+64b4ba51ebffdbcee04a5f10934fb9d0	Arthropoda	Insecta	Hymenoptera				86.392	public	1	Order		4	1
+9181b39257657039d4d85e58b7edf79e	Arthropoda	Insecta	Hemiptera				85.849	public	2	Order		1--2	1
+b341a27166ca53e9f6d1aa3b5a02c163	Arthropoda	Collembola	Neelipleona	Neelidae	Megalothorax	Megalothorax perspicillum	99.686	public	1	Species	BOLD:AFS8798	4	1
+ca6ef51fadf9f7586a8e4d6400517e7f	Arthropoda	Insecta	Hymenoptera				87.22	public	1	Order		4	1
+2b71dcb055140339ac02855bf00e0f85	Arthropoda	Insecta	Hymenoptera	Tenthredinidae			92.188	public	2	Family		1	1
+43d21d7599f437fac08a2bc54a9df112	Arthropoda	Insecta	Lepidoptera				85.981	public	1	Order		1--4	1
+0c4ca3c5f1a9e36dd36fbd598b5e2ca6	Arthropoda	Diplopoda	Julida	Julidae			93.417	public	2	Family			1
+ea0727c50cd50669eb6b00feb697e234	Arthropoda	Collembola	Entomobryomorpha	Lepidocyrtidae	Lepidocyrtus		100.0	public	14	Genus			1
+0f399e708a59467a7d85cead1848f9e1	Arthropoda	Insecta	Hymenoptera				86.562	public	1	Order		2--4	1
+b62cb9102693a0dc3ad331cb90b98ac0	Arthropoda	Insecta	Lepidoptera				85.304	public	1	Order		1--4	1
+949caeec14e065c4c60534d07cad0d7a	Arthropoda	Insecta	Hymenoptera				86.25	public	1	Order		2--4	1
+37f8d60d187273a913417183e88de02b	Arthropoda	Insecta	Lepidoptera	Gracillariidae			90.625	public	1	Family		1--4	1
+5bb1d347d18e4d6798eff952fb193cd7	Arthropoda	Insecta	Lepidoptera				86.25	public	1	Order		1--4	1
+50a6c59123e810326135260be7e100df	Arthropoda	Insecta	Hemiptera				85.266	public	2	Order		1--2	1
+f07b28a4e7e3a2be3a6bb70617b5f0ca	Arthropoda	Insecta	Hemiptera				89.623	public	2	Order		1--2	1
+abe93d2114c00f1ff46cea480bf3824f	Arthropoda	Copepoda	Calanoida				89.073	public	1	Order		4	1
+924931b7c31fd7ff2b1e78b57e083651	Arthropoda	Insecta	Lepidoptera				85.809	public	1	Order		1--2--4	1
+f1e2d76a6568945a26e953b9a87f9e90	Arthropoda	Insecta	Lepidoptera				85.577	public	1	Order		1--4	1
+414ec2b21d93d468d9ac34e42549aba4	Arthropoda	Insecta	Hemiptera				85.22	public	2	Order		1--2	1
+a3904a0aef6699d6527efb0bb5d544d4	Arthropoda	Collembola	Entomobryomorpha				85.479	public	1	Order		1--4	1
+65cd67ef4caf90cbe4f206918c4042d2	Arthropoda	Insecta	Hemiptera				85.22	public	2	Order		1--2	1
+051d5101789b0ccbe4c05902cdae16de	Arthropoda	Insecta	Lepidoptera				88.438	public	1	Order		1--4	1
+33d4f817a5d48799155f6428519aa09c	Arthropoda	Insecta	Hymenoptera				86.293	public	1	Order		2--4	1
+76415fdaa24125292180ffd0de8daa1f	Arthropoda	Insecta	Hymenoptera				87.107	public	1	Order		2--4	1
+bb9cee0d01e0803569c5b5827b53dfbd	Arthropoda	Insecta	Hemiptera	Miridae			91.195	public	2	Family		1	1
+211ef5555f490e67a738fd6faf2944b7	Arthropoda	Insecta	Hemiptera				85.577	public	2	Order		1--2	1
+66eb21cf02850d761027f92641c1385b	Arthropoda	Insecta	Hemiptera				85.577	public	2	Order		1--2	1
+a020b64272ad8ed2f1f52376021e138e	Arthropoda	Insecta	Hemiptera	Miridae	Phytocoris		100.0	public	2	Genus		1	1
+0302d20af2578a51388a146926a6e8d5	Arthropoda	Insecta	Hymenoptera				87.147	public	1	Order		4	1
+b2ca31a787f265bf2049dc404550035c	Arthropoda	Insecta	Hymenoptera				89.028	public	1	Order		4	1
+d10222677ed3fafbfcf62139a75ac9f1	Arthropoda	Insecta	Lepidoptera				85.39	public	1	Order		4	1
+40ce9ffe0fed9b3079adef23116a5ad9	Arthropoda	Insecta	Hymenoptera	Tenthredinidae			92.5	public	2	Family		1	1
+0d08fe1741aaf21e531ac43a51ff970f	Arthropoda	Collembola	Entomobryomorpha				86.885	public	93	Order		2	1
+1a295b5b6d80886cfedfca0b6063f477	Arthropoda	Insecta	Lepidoptera				87.188	public	1	Order		1--4	1
+8580d4e55a58a333755d15f2da6e05db	Arthropoda	Insecta	Lepidoptera				85.938	public	1	Order		1--2--4	1
+e0fdb9a158cf15162b4085a293ced592	Arthropoda	Insecta	Lepidoptera	Gracillariidae			92.5	public	1	Family		1--4	1
+b2a1c94696ec433238d83d382d908b35	Arthropoda	Insecta	Hymenoptera				85.668	public	1	Order		2--4	1
+50249c44153fd9ae79cd4591cc2cb951	Arthropoda	Insecta	Hymenoptera	Formicidae	Solenopsis	Solenopsis fugax	100.0	public	16	Species	BOLD:AAU1369;BOLD:ADX2878;BOLD:AEL6530;BOLD:AEK2690;BOLD:AED9635;BOLD:ADJ4796	5	1
+78db0595a112c42bd1d81533edaf57d9	Arthropoda	Insecta	Lepidoptera				85.625	public	1	Order		1--4	1
+62443d38b1e5c10949bffa5d9de67f67	Arthropoda	Insecta	Lepidoptera				85.58	public	1	Order		1--4	1
+abb5e06fce66ceaf2107860a31f45ce9	Arthropoda	Insecta	Lepidoptera				89.744	public	1	Order		1--4	1
+a34715d5878bfe993e4709da622ba065	Arthropoda	Insecta	Hemiptera				85.577	public	2	Order		1--2	1
+bd4ea40435ed517f385a717d5faee421	Arthropoda	Insecta	Lepidoptera				85.256	public	1	Order		1--4	1
+aba6aef24992e3bf630bf63fd4c9bdcf	Arthropoda	Insecta	Coleoptera				87.077	public	2	Order		2	1
+aac5ef99d0e8e59ecf659dda2a523fac	Arthropoda	Insecta	Lepidoptera				86.859	public	1	Order		1--2--4	1
+c6afe404e12d8df0e49b8238ebcfd1bd	Arthropoda	Insecta	Hemiptera				85.849	public	2	Order		1--2	1
+ff0c72a16bc615fe9047b4acacc7901f	Arthropoda	Insecta	Lepidoptera				86.834	public	1	Order		1--4	1
+2782ceec1ee5307a0f5676490a1cc5f9	Arthropoda	Insecta	Hemiptera	Miridae			91.195	public	2	Family		1	1
+b95fcb3a24fb5d384ebf7ee01f570754	Arthropoda	Insecta	Hemiptera	Miridae			91.195	public	2	Family		1	1
+a2e0f7fd92adc87c715938092c23fdf1	Arthropoda	Insecta	Hymenoptera				86.164	public	1	Order		4	1
+e3bad1fb89622f590fa88d5a3fbd04a9	Arthropoda	Insecta	Coleoptera	Curculionidae	Sitona	Sitona hispidulus	100.0	public	76	Species	BOLD:AAH0130		1
+87738f9582185d0171e5b467fc457269	Arthropoda	Insecta	Lepidoptera				85.197	public	1	Order		1--4	1
+e9292794fa299ac4f3dbc9b11c0218bf	Arthropoda	Insecta	Hymenoptera				85.981	public	1	Order		2--4	1
+920ad6d26ae0e928f976f5a6b8dd015b	Arthropoda	Collembola	Poduromorpha	Onychiuridae	Thalassaphorura	Thalassaphorura udhagaiensis	99.689	public	1	Species	BOLD:AAH3270	2--4	1
+886756acc3b97651b8273e9120c0c432	Arthropoda	Insecta	Hemiptera				85.312	public	2	Order		1--2	1
+eaab59608229fbe32111e8e9f4ff5d4b	Arthropoda	Collembola	Entomobryomorpha				85.43	public	1	Order		1--4	1
+4a10eb2eee9da96d0b72eb3114743a73	Arthropoda	Insecta	Lepidoptera				85.714	public	1	Order		1--4	1
+89d351008c2a5cdbc72824d6807a9d0d	Arthropoda	Insecta	Lepidoptera	Gracillariidae			91.589	public	1	Family		1--2--4	1
+d54389b28e5e255f0237abb9b71a87df	Arthropoda	Arachnida	Trombidiformes				87.461	public	52	Order			1
+3fcaa8f0be2f16bf195fd49b9455c3d1	Arthropoda	Insecta	Hemiptera				85.22	public	2	Order		1--2	1
+21747b737b22d642e88ab38e73ec6cd0	Arthropoda	Insecta	Hymenoptera				88.179	public	1	Order		4	1
+cf41cd7a1e023755167e414d5a87387b	Arthropoda	Insecta	Hemiptera				85.902	public	2	Order		1--2	1
+fbf1557044676f8e1e95f2f7156731cd	Arthropoda	Insecta	Lepidoptera				85.05	public	1	Order		1--4	1
+aa236465d230de8f19d53744806acf9f	Arthropoda	Insecta	Lepidoptera				88.715	public	1	Order		1--4	1
+cf0ff49aede35e98228ba1bb14d5ee3e	Arthropoda	Insecta	Hymenoptera				86.646	public	1	Order		4	1
+a5ed56feb34024bb748bf755ffb9486f	Arthropoda	Arachnida	Trombidiformes				89.404	public	95	Order		2	1
+1296ae9d39e2f66779e44dc4d0331fb7	Arthropoda	Arachnida	Sarcoptiformes	Oppiidae			99.003	public	8	Family			1
+796d4863b054059d30a2d1ea4fe92afb	Arthropoda	Insecta	Hymenoptera				85.312	public	1	Order		4	1
+c04f11164abb56f184341bf6b34c0691	Arthropoda	Insecta	Lepidoptera				87.147	public	1	Order		1--4	1
+43f96396c52ae5e735c0beb46b6ccf5c	Arthropoda	Insecta	Hymenoptera				85.987	public	1	Order		2--4	1
+8f541f8763fff14efa431e0cf122af9a	Arthropoda	Collembola	Entomobryomorpha				85.535	public	2	Order			1
+2251d3d8a5b34e744f46864ab59aa482	Arthropoda	Insecta	Lepidoptera				86.875	public	2	Order		1	1
+306255ab14a6fade850adc746641022a	Arthropoda	Insecta	Coleoptera				88.0	public	2	Order		2	1
+f701933052f988104fe33627178627ef	Arthropoda	Collembola	Poduromorpha	Tullbergiidae			92.771	public	5	Family			1
+516ff828c2883df823baa33310931018	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		97.656	public	1	Genus		1--4	1
+30a3aa15aa8053df75a7eef65cb3e6a3	Arthropoda	Diplopoda	Julida	Julidae			94.357	public	2	Family			1
+587c88a209d79e7d2f126a3fd659676a	Arthropoda	Insecta	Hymenoptera				87.188	public	1	Order		2--4	1
+0db4351b3c75ee83ce0b25066cec1fe8	Arthropoda	Insecta	Hemiptera				85.574	public	2	Order		1--2	1
+bf6782def3f4d272a08adbe39681cf97	Arthropoda	Insecta	Lepidoptera				85.625	public	1	Order		1--4	1
+1fe0913e5db4045d8c11dcef6cbaf64e	Arthropoda	Insecta	Hymenoptera				89.342	public	1	Order		2--4	1
+53dce61ca59525c7a3a2c1d27d5e6ba0	Arthropoda	Insecta	Hymenoptera				88.401	public	1	Order		4	1
+cbcfa9925a30a78f2681c16a2d056080	Arthropoda	Insecta	Hemiptera				86.349	public	2	Order		1--2	1
+6953651b76211c5fdd9bcc0f3265c4a3	Arthropoda	Copepoda	Calanoida				85.404	public	1	Order		4	1
+db37286bbf65c53dda7ec9f9d7b0eb9d	Arthropoda	Insecta	Hymenoptera				87.188	public	1	Order		2--4	1
+3a66d49f401d3d83c48ac7037c38279a	Arthropoda	Insecta	Hymenoptera				85.0	public	1	Order		4	1
+34479e827dd2cf6d78b0097bb92c81f6	Arthropoda	Insecta	Hymenoptera				87.227	public	1	Order		4	1
+7f0d2266ee281c6641629258a4ca3e3c	Arthropoda	Insecta	Lepidoptera				87.5	public	1	Order		1--4	1
+0384676a4e1361a1a5315ae214428577	Arthropoda	Insecta	Hemiptera				86.164	public	2	Order		1--2	1
+51f6c8c46081dcd255379e423fff93b8	Arthropoda	Insecta	Hymenoptera				85.0	public	1	Order		4	1
+936e193457eb315f8832e13042aaae71	Arthropoda	Arachnida	Sarcoptiformes	Nanorchestidae	Nanorchestes		100.0	public	1	Genus			1
+0c8fc1410c9779176ec36e6108287805	Arthropoda	Insecta	Hymenoptera				85.893	public	1	Order		4	1
+b240ac96549090f1878f864fee782495	Arthropoda	Insecta	Hymenoptera				85.58	public	1	Order		4	1
+8926f72e3fd6b845516670850ffc8a78	Arthropoda	Copepoda	Calanoida				86.293	public	1	Order		4	1
+1bdd9eceb59ad26bc5616d4dd2166a56	Arthropoda	Insecta	Lepidoptera				89.028	public	1	Order		1--4	1
+a870c0a74862b064d8e7796baeb1f7ec	Arthropoda	Arachnida	Trombidiformes	Tydeidae			90.0	public	1	Family		1--4	1
+560166d0a463cec309a621527f812026	Arthropoda	Collembola	Entomobryomorpha	Lepidocyrtidae	Lepidocyrtus		99.686	public	14	Genus			1
+d2a138a57da3189d69dcfafb98e47a71	Arthropoda	Insecta	Hymenoptera				85.981	public	1	Order		4	1
+50cdc904bd10adf84e22780680f72230	Arthropoda	Insecta	Hymenoptera				89.028	public	1	Order		2--4	1
+9aef630441da39012f2166c8ddd95aaa	Arthropoda	Insecta	Hemiptera				87.213	public	2	Order		1--2	1
+e342393b714dfd2ec5e3e9ea10f5c513	Arthropoda	Insecta	Lepidoptera				86.293	public	1	Order		1--4	1
+0b1a710d2f6b34ddf935be3ec67d9af2	Arthropoda	Insecta	Hymenoptera				87.107	public	1	Order		2--4	1
+4cd9ff25f627980baf6377ebe3f4b7f5	Arthropoda	Insecta	Hymenoptera	Tenthredinidae			95.938	public	2	Family		1	1
+f8b663e05464ca6cb26874c6fe29b323	Arthropoda	Insecta	Hymenoptera				85.266	public	1	Order		2--4	1
+ba11537ab960d073f43641a73a5ed8f3	Arthropoda	Collembola	Entomobryomorpha	Lepidocyrtidae	Lepidocyrtus		100.0	public	14	Genus			1
+fc830b5b3d3601abb28baeab89ce5ce1	Arthropoda	Insecta	Lepidoptera				85.981	public	1	Order		1--4	1
+7e68450d2ebe1f059c5a5d18fc5464e8	Arthropoda	Insecta	Lepidoptera				86.293	public	1	Order		1--4	1
+0389fefd39902d2efdf72daa27a539f4	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Longitarsus	Longitarsus luridus	100.0	public	90	Species	BOLD:AAP8332	2	1
+5650fc024b484f4c55c2095953349c5f	Arthropoda	Insecta	Lepidoptera				89.355	public	1	Order		1--4	1
+2526e7ccfad2edcea424de687625b78e	Arthropoda	Insecta	Lepidoptera				87.859	public	1	Order		1--4	1
+7244597b71dcc340cb8c7b477afdd720	Arthropoda	Insecta	Hemiptera				87.382	public	2	Order		1--2	1
+009426953e006c0cb0ca6a720925c3c6	Arthropoda	Insecta	Lepidoptera				86.293	public	1	Order		1--4	1
+f6703f321f83381cd5a16f46789a9004	Arthropoda	Insecta	Hymenoptera				86.164	public	1	Order		2--4	1
+0d9b8d7bde71ad11c9a952d0e2ea7c27	Arthropoda	Insecta	Hymenoptera				86.792	public	1	Order		2--4	1
+d2ee079a62db183640e51c1b2f36e35a	Arthropoda	Collembola	Entomobryomorpha	Entomobryidae	Coecobrya		97.473	public	3	Genus			1
+9acdd7caa6ba70ae8f4f5e938f0aad39	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		96.875	public	1	Genus		1--4	1
+a1031124be52b7d5d0689fe74c84f1d7	Arthropoda	Collembola	Entomobryomorpha				86.971	public	87	Order		2	1
+2aeb6fecadfb6a6bd83a85ace3376c21	Arthropoda	Insecta	Lepidoptera				87.539	public	1	Order		1--4	1
+d20988cda4b556cb9714a9ba7b4bfe3c	Arthropoda	Insecta	Hymenoptera	Tenthredinidae			93.125	public	2	Family		1	1
+3e88d5576d4452560c2dd1f78ebd48aa	Arthropoda	Insecta	Lepidoptera				85.312	public	1	Order		1--4	1
+4b0f18c4b965aa0fc2ef55f677a80fc1	Arthropoda	Copepoda	Calanoida				85.404	public	1	Order		4	1
+715b782940c35f1d37c7291fd43691da	Arthropoda	Diplopoda	Julida	Julidae			93.103	public	2	Family			1
+5ad7c46be86743a2957da254bcae32c2	Arthropoda	Copepoda	Calanoida				88.742	public	1	Order		4	1
+ed3a675fc46950e1200410ae524dc50d	Arthropoda	Insecta	Coleoptera	Carabidae	Oreonebria	Oreonebria ligurica	98.496	public	1	Species	BOLD:AGO6385	4	1
+035999c40d54ca8c4e1dc72e73a4f0dc	Arthropoda	Insecta	Hemiptera				85.574	public	2	Order		1--2	1
+b56ec8dbf6bee58764e007a939372618	Arthropoda	Insecta	Hymenoptera				85.032	public	1	Order		4	1
+ef2c6d131ba5e6cbb4ba80f6b715d571	Arthropoda	Insecta	Hymenoptera				87.107	public	1	Order		2--4	1
+90de1d497d2fa4a764e8d058054c899c	Arthropoda	Insecta	Lepidoptera				85.809	public	1	Order		1--2--4	1
+2a24d20ce8770807f31197635e0fad95	Arthropoda	Copepoda	Calanoida				85.762	public	1	Order		4	1
+cebca3f032a3858ccfd7a63ac1d45b0b	Arthropoda	Insecta	Lepidoptera				85.479	public	1	Order		1--2--4	1
+d58241afe1508b038228796c09a693e1	Arthropoda	Arachnida	Mesostigmata	Pachylaelapidae	Pachylaelaps		100.0	public	4	Genus			1
+77c9d37ee286fdaf22e183168f4f016f	Arthropoda	Insecta	Lepidoptera				85.714	public	2	Order		1--2	1
+54ec7bdf0620d7e63b97c9cc93c6238e	Arthropoda	Insecta	Hemiptera	Miridae			91.167	public	2	Family		1	1
+f2ca7ce7549bf4282705e494fd1a33ad	Arthropoda	Insecta	Lepidoptera				86.495	public	1	Order		1--4	1
+f7e53c27b91eaf1918182bc072700c46	Arthropoda	Insecta	Hymenoptera	Tenthredinidae			93.125	public	2	Family		1	1
+4cefb750a4ad5d50060f846821f52d9f	Arthropoda	Insecta	Diptera	Mycetophilidae			90.756	public	1	Family		1--4	1
+ce923ee8816585c319dfa7bc9df550c1	Arthropoda	Insecta	Hymenoptera	Tenthredinidae			91.875	public	2	Family		1	1
+4ba09d503a69bc99b6e56e5f0525d602	Arthropoda	Insecta	Hemiptera				86.129	public	2	Order		1--2	1
+e941efb9d9f276f6513126f67da5d57d	Arthropoda	Insecta	Hymenoptera				85.809	public	1	Order		2--4	1
+eb6e1f2aee5b375d96aa7653faea51ef	Arthropoda	Insecta	Hemiptera				87.255	public	2	Order		1--2	1
+3b99fb03b6258dcfc44e467b28724bf2	Arthropoda	Insecta	Hemiptera	Miridae			91.167	public	2	Family		1	1
+ffc438a903285eddd8fb889fb7ae74d9	Arthropoda	Insecta	Hemiptera				86.581	public	2	Order		1--2	1
+6a66e84eb03cc1fa37df1d7b362e9dd4	Arthropoda	Copepoda	Calanoida				85.494	public	1	Order		4	1
+b552a367cea6b18b0225d2d9764d6115	Arthropoda	Insecta	Lepidoptera				85.526	public	1	Order		1--4	1
+126bdc594971bd62ad6d83d823ce4c78	Arthropoda	Insecta	Lepidoptera				85.484	public	1	Order		1--4	1
+a8ac9bb68c31313f453bea0b5114c6dc	Arthropoda	Diplopoda	Julida				88.82	public	2	Order			1
+61ae4723cd2347138bc7e08cb13c2b38	Arthropoda	Arachnida	Mesostigmata	Rhodacaridae	Rhodacarellus		95.397	public	4	Genus			1
+4b2e805eeacc847206e2839ea992043c	Arthropoda	Arachnida	Araneae				85.849	public	1	Order		4	1
+239864b196bc9659d42e869cdce719b5	Arthropoda	Insecta	Lepidoptera				89.969	public	1	Order		1--4	1
+8f3150d9c0b016463d53265ee00526cd	Arthropoda	Collembola	Entomobryomorpha	Isotomidae	Parisotoma		100.0	public	88	Genus			1
+07ee22782ee10b26656381a6af9514c6	Arthropoda	Insecta	Hymenoptera				87.147	public	1	Order		4	1
+afee97186aed3599a197e4458a74b867	Arthropoda	Insecta	Lepidoptera				85.623	public	1	Order		1--4	1
+badf2e5ce6ec44b4a92ca51d250fc3fc	Arthropoda	Insecta	Hymenoptera				87.5	public	1	Order		2--4	1
+ac82ad2f47a8d0eb6541200f7c8b5177	Arthropoda	Insecta	Hymenoptera				86.875	public	1	Order		2--4	1
+68616785da7112f39f37d4b1b4ada42d	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		98.333	public	1	Genus		1--4	1
+f0f2835955f06256b067dd62e7fb51c5	Arthropoda	Insecta	Hymenoptera				86.207	public	1	Order		4	1
+3c29e57503ca6f5628f7ce86040ced74	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		98.438	public	1	Genus		1--4	1
+a127fe7911abfaa697ad78028f2b23a5	Arthropoda	Insecta	Hymenoptera				86.834	public	1	Order		4	1
+b44f02b8130ad32c03feaf22eb380def	Arthropoda	Insecta	Coleoptera				89.538	public	4	Order		2	1
+29c65048938acedc35b4a193ca5d7c49	Arthropoda	Insecta	Lepidoptera				86.293	public	1	Order		1--4	1
+10323aa1d344b949e7443c4d6091d4eb	Arthropoda	Arachnida	Trombidiformes	Tydeidae	Microtydeus		98.746	public	1	Genus		1--4	1
+f07a8e64777a518fd88bf7584b5bc72a	Arthropoda	Insecta	Lepidoptera				89.028	public	1	Order		1--4	1
+ecc66be1fb4ba2d9ebdb32447cda73ca	Arthropoda	Copepoda	Calanoida				85.714	public	1	Order		4	1
+3a235ba687e4ac9a8ffcdcceb0aefdfe	Arthropoda	Insecta	Hymenoptera				86.139	public	1	Order		2--4	1
+31634c2667d3420e72c1a813c97f71a3	Arthropoda	Insecta	Hymenoptera				87.5	public	1	Order		2--4	1
+fb76d63a7e3c8c372ff58025e24e60e4	Arthropoda	Arachnida	Mesostigmata	Veigaiidae	Veigaia		99.669	public	9	Genus			1
+663bbf5c7c7154d54f1ab0b8ce8dadea	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		97.619	public	1	Genus		1--4	1
+9125af923a0f61b97fc44fa0d979e532	Arthropoda	Insecta	Hemiptera				85.849	public	2	Order		1--2	1
+c7c05fbe42c2d35175d2a28cf52eb0cf	Arthropoda	Insecta	Hymenoptera				87.5	public	1	Order		4	1
+1344eef6fcd1dbd12a8c58e5fca9d689	Arthropoda	Insecta	Coleoptera	Cantharidae			90.462	public	1	Family		2	1
+a370bf6dec13a8856b99016cce059d34	Arthropoda	Insecta	Hymenoptera				86.52	public	1	Order		4	1
+fe2a54a023d847288cf7adb8167eda40	Arthropoda	Insecta	Diptera				85.149	public	14	Order		2	1
+8f94c38f42348ab9342487893e9bc05b	Arthropoda	Insecta	Lepidoptera				85.256	public	1	Order		1--4	1
+0f124de0aad3fce0d1df0c6034c985d7	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		97.656	public	1	Genus		1--4	1
+e61c167fe9b18a127a1cf94852b3e552	Arthropoda	Insecta	Lepidoptera				85.256	public	1	Order		1--4	1
+73fc97ce9aa94562cc25156b3348512a	Arthropoda	Arachnida	Trombidiformes	Tydeidae			100.0	public	9	Family		1	1
+523e70f7915301e70b63c436caa1fb07	Arthropoda	Insecta	Hemiptera				89.59	public	2	Order		1--2	1
+670993726069db7b9317aa99f071839f	Arthropoda	Arachnida	Mesostigmata	Veigaiidae	Veigaia		100.0	public	5	Genus			1
+586f73169b26610b4f1b23d3db47eded	Arthropoda	Insecta	Hymenoptera				86.875	public	1	Order		4	1
+43e1ebd12043f2bd716982ebfab669f0	Arthropoda	Arachnida	Sarcoptiformes	Oppiidae			99.007	public	8	Family			1
+951ba2dffd1733d2ba538b37199f180d	Arthropoda	Insecta	Diptera	Cecidomyiidae	Dasineura		98.333	public	1	Genus		1--4	1
+d0e026fbf3e45239b7ec0624c73edd9d	Arthropoda	Copepoda	Calanoida				85.67	public	1	Order		4	1
+0d4b6fed40e206a255718722510830fd	Arthropoda	Copepoda	Calanoida				89.073	public	1	Order		4	1
+84d97b5989e55ff29fafd8a2febfcd61	Arthropoda	Insecta	Lepidoptera				89.423	public	1	Order		1--4	1
+641a9fdb1981a0c9f07bb26d6c82b7b8	Arthropoda	Insecta	Hemiptera	Miridae	Phytocoris		100.0	public	2	Genus		1	1

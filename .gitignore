@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.tmp
+*.log
+*.qza
+*.qzv
