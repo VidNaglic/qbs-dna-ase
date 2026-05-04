@@ -1,7 +1,7 @@
 # DNA metabarcoding pipeline and data for QBS-DNA study
 
 ## Description
-This repository contains the core bioinformatics pipeline and taxonomic assignment step (BOLDigger) used in the QBS-DNA study (arable, orchard, strawberry systems). It provides the inputs and outputs needed to reproduce the ASV tables from sequencing data.
+This repository contains the core bioinformatics pipeline and taxonomic assignment step (BOLDigger) used in the QBS-DNA study (arable, orchard, strawberry systems). It provides the scripts and processed outputs needed to inspect the ASV tables used in the study.
 
 Contents:
 - bioinformatics scripts used for sequence processing and taxonomic assignment
@@ -10,10 +10,10 @@ Contents:
 - sample metadata
 
 ## Study reference
-Naglic et al. Soil Microarthropod Biodiversity in Agricultural Landscapes: Revisiting the QBS Index Through Genetic Insights.
+Naglic et al. Soil Microarthropod Biodiversity in Agricultural Landscapes: Revisiting the QBS Index Through DNA Metabarcoding.
 
 ## Data availability
-Raw sequencing data are available in the NCBI Sequence Read Archive (SRA) under BioProject accession number PRJNA1399753.
+Raw sequencing data for the study are deposited in the NCBI Sequence Read Archive (SRA) under BioProject accession number PRJNA1399753.
 
 ## Repository structure
 - bioinformatics_pipeline/   QIIME2 + DADA2 pipeline and BOLDigger assignment
@@ -27,14 +27,14 @@ Raw sequencing data are available in the NCBI Sequence Read Archive (SRA) under 
 - data/dna/asv_table_filtered.tsv           filtered ASV table used for analyses
 - data/dna/taxonomy_table.tsv               taxonomic assignments for filtered ASVs
 - data/dna/boldigger_assignments.xlsx       raw BOLDigger output (optional reference)
-- data/dna/representative_sequences.fasta   representative ASV sequences
+- data/dna/representative_sequences.fasta   representative sequences exported during processing; final ASVs are those listed in the filtered ASV and taxonomy tables
 - data/dna/sample_metadata_raw.tsv          metadata for raw ASV table
 - data/dna/sample_metadata_filtered.tsv     metadata for filtered ASV table
 - data/qbs/qbs_subsamples.xlsx              morphology (QBS) subsamples table
 
 ## Workflow summary
-1. Raw reads processed with QIIME2 + DADA2 to generate ASVs.
-2. Representative sequences assigned taxonomy with BOLDigger.
+1. Paired-end reads were imported into QIIME 2 from a manifest file and processed with DADA2 to generate ASVs.
+2. Representative sequences were assigned taxonomy with BOLDigger3 in exhaustive-search mode.
 3. ASV tables filtered by abundance and sample thresholds.
 
 ## How to run
@@ -46,7 +46,7 @@ Taxonomic assignment (BOLDigger):
 - bioinformatics_pipeline/03_boldigger_to_taxonomy.py
 
 ## Requirements (not included)
-- QIIME 2, biom, and (optional) seqkit for the pipeline
+- QIIME 2 and biom for the pipeline
 - BOLDigger3 for taxonomic assignment
 
 ## Repository link

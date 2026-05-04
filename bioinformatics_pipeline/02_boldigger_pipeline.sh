@@ -5,11 +5,11 @@
 set -euo pipefail
 
 # ---- User settings ----
-INPUT_FASTA="output/qiime2/exported/dna-sequences-validated.fasta"
+INPUT_FASTA="output/qiime2/exported/dna-sequences.fasta"
 RESULTS_DIR="output/boldigger"
-DB=3                     # 1-8 (3 = animal library public+private)
+DB=3                     # BOLDigger database option used for animal records
 MODE=3                   # 1=rapid, 2=genus+species, 3=exhaustive
-THRESHOLDS=(97 95 90 85) # species/genus/family/order; class default = 75
+THRESHOLDS=(98 95 90 85) # species/genus/family/order; class default = 75
 CHUNK_SIZE=120
 WORKERS=1
 MAX_RETRIES=2
@@ -24,6 +24,7 @@ if ! command -v boldigger3 >/dev/null 2>&1; then
 fi
 
 [[ -s "$INPUT_FASTA" ]] || { echo "ERROR: FASTA not found or empty: $INPUT_FASTA" >&2; exit 1; }
+BASE="$(basename "$INPUT_FASTA" .fasta)"
 
 # Helper: split FASTA into N-record chunks
 split_fasta_by_records() {
@@ -58,10 +59,8 @@ idx=0
 for CHUNK in "${CHUNKS[@]}"; do
   idx=$((idx+1))
   part_tag=$(printf "%03d" "$idx")
-  base="dna-sequences-validated"
-
-  part_xlsx="${RESULTS_DIR}/${base}_bold_results_part_${part_tag}.xlsx"
-  part_parq="${RESULTS_DIR}/${base}_identification_result_part_${part_tag}.parquet.snappy"
+  part_xlsx="${RESULTS_DIR}/${BASE}_bold_results_part_${part_tag}.xlsx"
+  part_parq="${RESULTS_DIR}/${BASE}_identification_result_part_${part_tag}.parquet.snappy"
 
   if [[ -s "$part_xlsx" && -s "$part_parq" ]]; then
     echo "Skipping chunk ${idx} (already processed)."
@@ -112,23 +111,24 @@ for CHUNK in "${CHUNKS[@]}"; do
 done
 
 # Merge parquet parts
-FINAL_PARQ="${RESULTS_DIR}/dna-sequences-validated_identification_result.parquet.snappy"
-RESULTS_DIR="$RESULTS_DIR" python3 - <<'PY'
+FINAL_PARQ="${RESULTS_DIR}/${BASE}_identification_result.parquet.snappy"
+RESULTS_DIR="$RESULTS_DIR" BASE="$BASE" python3 - <<'PY'
 import os, glob, sys
 import pandas as pd
 
 results_dir = os.environ.get("RESULTS_DIR", "")
 if not results_dir:
     results_dir = "output/boldigger"
+base = os.environ.get("BASE", "dna-sequences")
 
-parts = sorted(glob.glob(os.path.join(results_dir, "dna-sequences-validated_identification_result_part_*.parquet.snappy")))
+parts = sorted(glob.glob(os.path.join(results_dir, f"{base}_identification_result_part_*.parquet.snappy")))
 if not parts:
     print("ERROR: No parquet parts found in results dir.", file=sys.stderr)
     sys.exit(2)
 
 dfs = [pd.read_parquet(p) for p in parts]
 merged = pd.concat(dfs, ignore_index=True).drop_duplicates()
-final_parq = os.path.join(results_dir, "dna-sequences-validated_identification_result.parquet.snappy")
+final_parq = os.path.join(results_dir, f"{base}_identification_result.parquet.snappy")
 merged.to_parquet(final_parq, index=False)
 print("Wrote:", final_parq, "rows:", len(merged))
 PY
